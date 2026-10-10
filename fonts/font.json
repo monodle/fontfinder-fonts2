@@ -1,5 +1,5 @@
 {
-  "nextRepo": null,
+  "nextRepo": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts3@main/fonts",
   "fonts": [
     {
       "id": "batang",
@@ -19,7 +19,7 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/gggokr/gggokr.css"
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/gggokr/batang.css"
     },
     {
       "id": "gapyeonghanseokbongb",
@@ -546,7 +546,7 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/kbl/kbl.css"
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/kbl/kblcourt.css"
     },
     {
       "id": "kbljump-b",
@@ -565,7 +565,7 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/kbl/kbl.css"
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/kbl/kbljump_b.css"
     },
     {
       "id": "kbljump-eb-condensed",
@@ -584,7 +584,7 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/kbl/kbl.css"
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/kbl/kbljump_eb_condensed.css"
     },
     {
       "id": "kbljump-eb-extended",
@@ -603,7 +603,7 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/kbl/kbl.css"
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/kbl/kbljump_eb_extended.css"
     },
     {
       "id": "kbljump-r",
@@ -622,7 +622,7 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/kbl/kbl.css"
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/kbl/kbljump_r.css"
     },
     {
       "id": "kbo-dia-gothic",
@@ -644,25 +644,6 @@
       ],
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/kbo-dia-gothic/kbo-dia-gothic.css"
-    },
-    {
-      "id": "kcc-ahnchangho",
-      "name": "Kcc Ahnchangho",
-      "family": "kcc-ahnchangho",
-      "category": "sans-serif",
-      "version": "1.0.0",
-      "type": "self-hosted",
-      "author": "알 수 없음",
-      "license": "SIL OFL 1.1",
-      "weights": [
-        400
-      ],
-      "subsets": [
-        "korean",
-        "latin"
-      ],
-      "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/kcc-ahnchangho/kcc-ahnchangho.css"
     },
     {
       "id": "leeseoyoon",
@@ -725,7 +706,7 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/gggokr/gggokr.css"
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/gggokr/title.css"
     },
     {
       "id": "titlev",
@@ -744,7 +725,7 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/gggokr/gggokr.css"
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/gggokr/titlev.css"
     }
   ]
 }

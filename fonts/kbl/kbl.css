@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'kblcourt';
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src: url('./kblcourt_eb.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'kbljump_b';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./kbljump_b.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'kbljump_eb_condensed';
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src: url('./kbljump_eb_condensed.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'kbljump_eb_extended';
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src: url('./kbljump_eb_extended.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'kbljump_r';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./kbljump_r.woff') format('woff');
+}
