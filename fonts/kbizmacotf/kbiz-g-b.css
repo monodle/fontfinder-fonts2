@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'kbiz-g-b';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./kbiz-g-b.woff2') format('woff2');
+}

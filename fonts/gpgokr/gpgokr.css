@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'gapyeonghanseokbongb';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./gapyeonghanseokbongb.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'gapyeonghanseokbongl';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./gapyeonghanseokbongl.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'gapyeonghanseokbongr';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./gapyeonghanseokbongr.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'gapyeongwave';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./gapyeongwave.woff2') format('woff2');
+}

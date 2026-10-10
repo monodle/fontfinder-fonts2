@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'gwpoof_modu';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./gwpoof_modu_light.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'gwpoof_modu';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./gwpoof_modu_bold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'gwpoof_modu_ho';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./gwpoof_modu_ho.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'gwpoof_modu_seom';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./gwpoof_modu_seom.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'gwpoof_modu_tt';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./gwpoof_modu_tt.woff2') format('woff2');
+}
