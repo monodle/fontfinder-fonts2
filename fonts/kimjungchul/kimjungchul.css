@@ -1,0 +1,71 @@
+@font-face {
+  font-family: 'kimjungchulgothic';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./kimjungchulgothic-light.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'kimjungchulgothic';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./kimjungchulgothic-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'kimjungchulgothic';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./kimjungchulgothic-bold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'kimjungchulmyungjo';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./kimjungchulmyungjo-light.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'kimjungchulmyungjo';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./kimjungchulmyungjo-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'kimjungchulmyungjo';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./kimjungchulmyungjo-bold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'kimjungchulscript';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./kimjungchulscript-light.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'kimjungchulscript';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./kimjungchulscript-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'kimjungchulscript';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./kimjungchulscript-bold.woff2') format('woff2');
+}

@@ -1,0 +1,55 @@
+@font-face {
+  font-family: 'kyobohandwriting2019';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./kyobohandwriting2019.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'kyobohandwriting2020pdy';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./kyobohandwriting2020pdy.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'kyobohandwriting2021sjy';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./kyobohandwriting2021sjy.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'kyobohandwriting2022khn';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./kyobohandwriting2022khn.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'kyobohandwriting2023wsa';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./kyobohandwriting2023wsa.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'kyobohandwriting2024psw';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./kyobohandwriting2024psw.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'kyobohandwriting2025lyb';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./kyobohandwriting2025lyb.woff2') format('woff2');
+}

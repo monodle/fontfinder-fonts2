@@ -98,6 +98,174 @@
       }
     },
     {
+      "id": "cts2688-file3",
+      "family": "cts2688_file3",
+      "categories": [
+        "display"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/gimpo/cts2688_file3.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.gimpo.go.kr",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright (C) 2019 GIMPO CITY. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "김포평화제목",
+          "en": "GimpoTitle"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;PTL ;GimpoTitle"
+        },
+        "Full Font Name": {
+          "ko": "김포평화제목",
+          "en": "GimpoTitle"
+        },
+        "Version": {
+          "en": "Version 1.000; Build 20190612"
+        },
+        "PostScript Name": {
+          "en": "GimpoTitle"
+        },
+        "Trademark": {
+          "en": "GimpoTitle is a trademark of GIMPO CITY."
+        },
+        "Manufacturer": {
+          "ko": "김포시",
+          "en": "GIMPO CITY"
+        },
+        "Designer": {
+          "ko": "박윤정&타이포랩",
+          "en": "PYJ&Typolab Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.gimpo.go.kr"
+        }
+      }
+    },
+    {
+      "id": "cts2688-file5",
+      "family": "cts2688_file5",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/gimpo/cts2688_file5.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.gimpo.go.kr",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright (C) 2019 GIMPO CITY. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "김포평화바탕",
+          "en": "GimpoBatang"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;PTL ;GimpoBatang"
+        },
+        "Full Font Name": {
+          "ko": "김포평화바탕",
+          "en": "GimpoBatang"
+        },
+        "Version": {
+          "en": "Version 1.000; Build 20190613"
+        },
+        "PostScript Name": {
+          "en": "GimpoBatang"
+        },
+        "Trademark": {
+          "en": "GimpoBatang is a trademark of GIMPO CITY."
+        },
+        "Manufacturer": {
+          "ko": "김포시",
+          "en": "GIMPO CITY"
+        },
+        "Designer": {
+          "ko": "박윤정&타이포랩",
+          "en": "PYJ&Typolab Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.gimpo.go.kr"
+        }
+      }
+    },
+    {
       "id": "gapyeonghanseokbongb",
       "family": "gapyeonghanseokbongb",
       "categories": [
@@ -726,6 +894,107 @@
         },
         "License Info URL": {
           "en": "http://scripts.sil.org/OFL"
+        }
+      }
+    },
+    {
+      "id": "gwangyang-touching",
+      "family": "gwangyang-touching",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/gwangyang-touching/gwangyang-touching.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "https://itsfont.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2022 by GWANGYANG CITY. All rights reserved.",
+          "en": "Copyright (c) 2022 by GWANGYANG CITY. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "광양감동체",
+          "en": "Gwangyang Touching"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;TT;Gwangyang Touching"
+        },
+        "Full Font Name": {
+          "ko": "광양감동체",
+          "en": "Gwangyang Touching"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "Gwangyang Touching"
+        },
+        "Trademark": {
+          "ko": "Gwangyang Touching is a trademark of GWANGYANG CITY.",
+          "en": "Gwangyang Touching is a trademark of GWANGYANG CITY."
+        },
+        "Manufacturer": {
+          "en": "TOGETHERGROUP"
+        },
+        "Designer": {
+          "ko": "TOGETHERGROUP",
+          "en": "TOGETHERGROUP"
+        },
+        "URL Vendor": {
+          "en": "https://itsfont.com"
+        },
+        "License Description": {
+          "ko": "광양시청",
+          "en": "GWANGYANG CITY"
+        },
+        "License Info URL": {
+          "en": "https://www.gwangyang.go.kr"
+        },
+        "Typographic Family": {
+          "ko": "광양감동체",
+          "en": "Gwangyang Touching"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
         }
       }
     },
@@ -2751,6 +3020,930 @@
         },
         "PostScript Name": {
           "en": "KBO"
+        }
+      }
+    },
+    {
+      "id": "kimjungchulgothic",
+      "family": "kimjungchulgothic",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.020",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300,
+        400,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/kimjungchul/kimjungchulgothic.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "http://www.YoonDesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © 2022 Junglim Architecture co.,ltd. All right reserved."
+        },
+        "Font Family": {
+          "ko": "Kim jung chul Gothic Regular",
+          "en": "Kim jung chul Gothic Regular"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.020;YDI ;KimjungchulGothic-Regular"
+        },
+        "Full Font Name": {
+          "ko": "Kim jung chul Gothic Regular",
+          "en": "Kim jung chul Gothic Regular"
+        },
+        "Version": {
+          "en": "Version 1.020;Build 20221104"
+        },
+        "PostScript Name": {
+          "en": "KimjungchulGothic-Regular"
+        },
+        "Trademark": {
+          "en": "Kim jung chul Gothic is a trademark of Junglim Architecture co.,ltd."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "Typographic Family": {
+          "ko": "Kim jung chul Gothic",
+          "en": "Kim jung chul Gothic"
+        }
+      }
+    },
+    {
+      "id": "kimjungchulmyungjo",
+      "family": "kimjungchulmyungjo",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.010",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300,
+        400,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/kimjungchul/kimjungchulmyungjo.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 3,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "http://www.YoonDesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © 2022 Junglim Architecture co.,ltd. All right reserved."
+        },
+        "Font Family": {
+          "ko": "Kim jung chul Myungjo Regular",
+          "en": "Kim jung chul Myungjo Regular"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.010;YDI ;KimjungchulMyungjo-Regular"
+        },
+        "Full Font Name": {
+          "ko": "Kim jung chul Myungjo Regular",
+          "en": "Kim jung chul Myungjo Regular"
+        },
+        "Version": {
+          "en": "Version 1.010;Build 20221104"
+        },
+        "PostScript Name": {
+          "en": "KimjungchulMyungjo-Regular"
+        },
+        "Trademark": {
+          "en": "Kim jung chul Myungjo is a trademark of Junglim Architecture co.,ltd."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "Typographic Family": {
+          "ko": "Kim jung chul Myungjo",
+          "en": "Kim jung chul Myungjo"
+        }
+      }
+    },
+    {
+      "id": "kimjungchulscript",
+      "family": "kimjungchulscript",
+      "categories": [
+        "handwriting"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300,
+        400,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/kimjungchul/kimjungchulscript.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 3,
+          "serifStyle": 5,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "http://www.YoonDesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © 2022 Junglim Architecture co.,ltd. All right reserved."
+        },
+        "Font Family": {
+          "ko": "Kim jung chul Script Regular",
+          "en": "Kim jung chul Script Regular"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI ;KimjungchulScript-Regular"
+        },
+        "Full Font Name": {
+          "ko": "Kim jung chul Script Regular",
+          "en": "Kim jung chul Script Regular"
+        },
+        "Version": {
+          "en": "Version 1.000;Build 20221104"
+        },
+        "PostScript Name": {
+          "en": "KimjungchulScript-Regular"
+        },
+        "Trademark": {
+          "en": "Kim jung chul Script is a trademark of Junglim Architecture co.,ltd."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "Typographic Family": {
+          "ko": "Kim jung chul Script",
+          "en": "Kim jung chul Script"
+        }
+      }
+    },
+    {
+      "id": "kyobohandwriting2019",
+      "family": "kyobohandwriting2019",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/kyobohandwriting/kyobohandwriting2019.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.YoonDesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright Copyright KYOBO LIFE INSURANCE CO., LTD. All Rights Reserved."
+        },
+        "Font Family": {
+          "ko": "교보 손글씨 2019",
+          "en": "Kyobo Handwriting 2019"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI ;KyoboHandwriting2019"
+        },
+        "Full Font Name": {
+          "ko": "교보 손글씨 2019",
+          "en": "Kyobo Handwriting 2019"
+        },
+        "Version": {
+          "en": "Version 1.000;Build 20200131"
+        },
+        "PostScript Name": {
+          "en": "KyoboHandwriting2019"
+        },
+        "Trademark": {
+          "en": "Kyobo Handwriting 2019 is a trademark of KYOBO LIFE INSURANCE CO., LTD."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "Designer": {
+          "en": "Im, kwang kyu; Lee, hyewon; Han, dohee"
+        },
+        "Typographic Family": {
+          "ko": "교보 손글씨 2019",
+          "en": "Kyobo Handwriting 2019"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "kyobohandwriting2020pdy",
+      "family": "kyobohandwriting2020pdy",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/kyobohandwriting/kyobohandwriting2020pdy.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.YoonDesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright KYOBO BOOK CENTRE All Rights Reserved."
+        },
+        "Font Family": {
+          "ko": "교보 손글씨 2020 박도연",
+          "en": "Kyobo Handwriting 2020 pdy"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI ;KyoboHandwriting2020"
+        },
+        "Full Font Name": {
+          "ko": "교보 손글씨 2020 박도연",
+          "en": "Kyobo Handwriting 2020 pdy"
+        },
+        "Version": {
+          "en": "Version 1.000;Build 20210106"
+        },
+        "PostScript Name": {
+          "en": "KyoboHandwriting2020"
+        },
+        "Trademark": {
+          "en": "Kyobo Handwriting 2020 is a trademark of Copyright KYOBO BOOK CENTRE"
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "en": "LEE, JEONG EUN;Han, dohee"
+        },
+        "URL Vendor": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "Typographic Family": {
+          "ko": "교보 손글씨 2020",
+          "en": "Kyobo Handwriting 2020"
+        },
+        "Typographic Subfamily": {
+          "ko": "박도연",
+          "en": "pdy"
+        }
+      }
+    },
+    {
+      "id": "kyobohandwriting2021sjy",
+      "family": "kyobohandwriting2021sjy",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.020",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/kyobohandwriting/kyobohandwriting2021sjy.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "http://www.YoonDesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright KYOBO BOOK CENTRE All Rights Reserved."
+        },
+        "Font Family": {
+          "ko": "교보 손글씨 2021 성지영",
+          "en": "Kyobo Handwriting 2021 sjy"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.020;YDI ;KyoboHandwriting2021sjy"
+        },
+        "Full Font Name": {
+          "ko": "교보 손글씨 2021 성지영",
+          "en": "Kyobo Handwriting 2021 sjy"
+        },
+        "Version": {
+          "en": "Version 1.020;Build 20220225"
+        },
+        "PostScript Name": {
+          "en": "KyoboHandwriting2021sjy"
+        },
+        "Trademark": {
+          "en": "Kyobo Handwriting 2021 is a trademark of KYOBO BOOK CENTRE"
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "Typographic Family": {
+          "ko": "교보 손글씨 2021",
+          "en": "Kyobo Handwriting 2021"
+        },
+        "Typographic Subfamily": {
+          "ko": "성지영",
+          "en": "sjy"
+        }
+      }
+    },
+    {
+      "id": "kyobohandwriting2022khn",
+      "family": "kyobohandwriting2022khn",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.010",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/kyobohandwriting/kyobohandwriting2022khn.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "http://www.YoonDesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright KYOBO BOOK CENTRE All Rights Reserved."
+        },
+        "Font Family": {
+          "ko": "교보 손글씨 2022 김혜남",
+          "en": "Kyobo Handwriting 2022 khn"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.010;YDI ;KyoboHandwriting2022khn"
+        },
+        "Full Font Name": {
+          "ko": "교보 손글씨 2022 김혜남",
+          "en": "Kyobo Handwriting 2022 khn"
+        },
+        "Version": {
+          "en": "Version 1.010;Build 20230227"
+        },
+        "PostScript Name": {
+          "en": "KyoboHandwriting2022khn"
+        },
+        "Trademark": {
+          "en": "Kyobo Handwriting 2022 is a trademark of KYOBO BOOK CENTRE"
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "en": "Lee, Chan Soul ; Jeong Yu Kwon;Han, dohee"
+        },
+        "URL Vendor": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "Typographic Family": {
+          "ko": "교보 손글씨 2022",
+          "en": "Kyobo Handwriting 2022"
+        },
+        "Typographic Subfamily": {
+          "ko": "김혜남",
+          "en": "khn"
+        }
+      }
+    },
+    {
+      "id": "kyobohandwriting2023wsa",
+      "family": "kyobohandwriting2023wsa",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.010",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/kyobohandwriting/kyobohandwriting2023wsa.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "http://www.YoonDesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright KYOBO BOOK CENTRE All Rights Reserved."
+        },
+        "Font Family": {
+          "ko": "교보 손글씨 2023 우선아",
+          "en": "Kyobo Handwriting 2023 wsa"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.010;YDI ;KyoboHandwriting2023wsa"
+        },
+        "Full Font Name": {
+          "ko": "교보 손글씨 2023 우선아",
+          "en": "Kyobo Handwriting 2023 wsa"
+        },
+        "Version": {
+          "en": "Version 1.010;Build 20240130"
+        },
+        "PostScript Name": {
+          "en": "KyoboHandwriting2023wsa"
+        },
+        "Trademark": {
+          "en": "Kyobo Handwriting 2023 is a trademark of KYOBO BOOK CENTRE"
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "ko": "YoonDesign Inc.",
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "Typographic Family": {
+          "ko": "교보 손글씨 2023",
+          "en": "Kyobo Handwriting 2023"
+        },
+        "Typographic Subfamily": {
+          "ko": "우선아",
+          "en": "wsa"
+        }
+      }
+    },
+    {
+      "id": "kyobohandwriting2024psw",
+      "family": "kyobohandwriting2024psw",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/kyobohandwriting/kyobohandwriting2024psw.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "https://yoondesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright KYOBO BOOK CENTRE All Rights Reserved."
+        },
+        "Font Family": {
+          "ko": "교보 손글씨 2024 박서우",
+          "en": "Kyobo Handwriting 2024 psw"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI ;KyoboHandwriting2024psw"
+        },
+        "Full Font Name": {
+          "ko": "교보 손글씨 2024 박서우",
+          "en": "Kyobo Handwriting 2024 psw"
+        },
+        "Version": {
+          "en": "Version 1.000;Build 20250213-1"
+        },
+        "PostScript Name": {
+          "en": "KyoboHandwriting2024psw"
+        },
+        "Trademark": {
+          "en": "Kyobo Handwriting 2024 is a trademark of KYOBO BOOK CENTRE"
+        },
+        "Manufacturer": {
+          "en": "YOONDESIGN Inc."
+        },
+        "Designer": {
+          "ko": "YOONDESIGN Inc.",
+          "en": "YOONDESIGN Inc."
+        },
+        "URL Vendor": {
+          "en": "https://yoondesign.com"
+        },
+        "License Info URL": {
+          "en": "https://yoondesign.com"
+        },
+        "Typographic Family": {
+          "ko": "교보 손글씨 2024",
+          "en": "Kyobo Handwriting 2024"
+        },
+        "Typographic Subfamily": {
+          "ko": "박서우",
+          "en": "psw"
+        }
+      }
+    },
+    {
+      "id": "kyobohandwriting2025lyb",
+      "family": "kyobohandwriting2025lyb",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/kyobohandwriting/kyobohandwriting2025lyb.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "https://www.yoondesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright KYOBO BOOK CENTRE All Rights Reserved."
+        },
+        "Font Family": {
+          "ko": "교보 손글씨 2025 이유빈",
+          "en": "Kyobo Handwriting 2025 lyb"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI ;KyoboHandwriting2025lyb"
+        },
+        "Full Font Name": {
+          "ko": "교보 손글씨 2025 이유빈",
+          "en": "Kyobo Handwriting 2025 lyb"
+        },
+        "Version": {
+          "en": "Version 1.000; Build 2026 0210"
+        },
+        "PostScript Name": {
+          "en": "KyoboHandwriting2025lyb"
+        },
+        "Trademark": {
+          "en": "Kyobo Handwriting 2025 is a trademark of KYOBO BOOK CENTRE"
+        },
+        "Manufacturer": {
+          "en": "YOONDESIGN Inc."
+        },
+        "Designer": {
+          "ko": "서지원",
+          "en": "Jiwon Seo"
+        },
+        "URL Vendor": {
+          "en": "https://www.yoondesign.com"
+        },
+        "License Info URL": {
+          "en": "https://www.kyobobook.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "교보 손글씨 2025",
+          "en": "Kyobo Handwriting 2025"
+        },
+        "Typographic Subfamily": {
+          "ko": "이유빈",
+          "en": "lyb"
         }
       }
     },

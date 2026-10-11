@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'kimjungchulmyungjo';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./kimjungchulmyungjo-light.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'kimjungchulmyungjo';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./kimjungchulmyungjo-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'kimjungchulmyungjo';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./kimjungchulmyungjo-bold.woff2') format('woff2');
+}
