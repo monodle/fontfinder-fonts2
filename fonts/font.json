@@ -46,118 +46,55 @@
       },
       "homepage": "http://www.typolab.co.kr",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "en",
-            "value": "Copyright (C) 2017 Gyeonggi and PYJ&TYPOLAB Inc. All rights reserved."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "경기천년바탕"
-          },
-          {
-            "lang": "en",
-            "value": "GyeonggiBatang"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "1.110;PTL ;GyeonggiBatangR"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "경기천년바탕"
-          },
-          {
-            "lang": "en",
-            "value": "GyeonggiBatang"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.110; Build 20180221"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "GyeonggiBatangR"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "en",
-            "value": "GyeonggiTitle, Gyeonggi is a trademark of Gyeonggi."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "ko",
-            "value": "박윤정&타이포랩"
-          },
-          {
-            "lang": "en",
-            "value": "PYJ&TYPOLAB Inc."
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "ko",
-            "value": "박윤정&타이포랩"
-          },
-          {
-            "lang": "en",
-            "value": "PYJ&TYPOLAB Inc."
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "http://www.typolab.co.kr"
-          }
-        ],
-        "License Description": [
-          {
-            "lang": "en",
-            "value": "http://www.typolab.co.kr/license"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "경기천년바탕"
-          },
-          {
-            "lang": "en",
-            "value": "GyeonggiBatang"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ]
+        "Copyright": {
+          "en": "Copyright (C) 2017 Gyeonggi and PYJ&TYPOLAB Inc. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "경기천년바탕",
+          "en": "GyeonggiBatang"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.110;PTL ;GyeonggiBatangR"
+        },
+        "Full Font Name": {
+          "ko": "경기천년바탕",
+          "en": "GyeonggiBatang"
+        },
+        "Version": {
+          "en": "Version 1.110; Build 20180221"
+        },
+        "PostScript Name": {
+          "en": "GyeonggiBatangR"
+        },
+        "Trademark": {
+          "en": "GyeonggiTitle, Gyeonggi is a trademark of Gyeonggi."
+        },
+        "Manufacturer": {
+          "ko": "박윤정&타이포랩",
+          "en": "PYJ&TYPOLAB Inc."
+        },
+        "Designer": {
+          "ko": "박윤정&타이포랩",
+          "en": "PYJ&TYPOLAB Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.typolab.co.kr"
+        },
+        "License Description": {
+          "en": "http://www.typolab.co.kr/license"
+        },
+        "Typographic Family": {
+          "ko": "경기천년바탕",
+          "en": "GyeonggiBatang"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
       }
     },
     {
@@ -202,110 +139,53 @@
       },
       "homepage": "http://www.yoondesign.com",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "en",
-            "value": "Copyright © 2023 Gapyeong County. All rights reserved."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "가평한석봉 큰붓 B"
-          },
-          {
-            "lang": "en",
-            "value": "Gapyeong Hanseokbong B"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "1.000;YDI ;GapyeongHanseokbong-Bold"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "가평한석봉 큰붓 B"
-          },
-          {
-            "lang": "en",
-            "value": "Gapyeong Hanseokbong B"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.000;Build 20230831"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "GapyeongHanseokbong-Bold"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "en",
-            "value": "Gapyeong Hanseokbong is a trademark of Gapyeong County."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "en",
-            "value": "YoonDesign Inc."
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "en",
-            "value": "Lee Jeong-eun, Moon Ha-na, Oh Yu-bin, Han Dohee"
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "http://www.yoondesign.com"
-          }
-        ],
-        "License Info URL": [
-          {
-            "lang": "en",
-            "value": "http://www.yoondesign.com"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "가평한석봉 큰붓"
-          },
-          {
-            "lang": "en",
-            "value": "Gapyeong Hanseokbong"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "B"
-          },
-          {
-            "lang": "en",
-            "value": "B"
-          }
-        ]
+        "Copyright": {
+          "en": "Copyright © 2023 Gapyeong County. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "가평한석봉 큰붓 B",
+          "en": "Gapyeong Hanseokbong B"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI ;GapyeongHanseokbong-Bold"
+        },
+        "Full Font Name": {
+          "ko": "가평한석봉 큰붓 B",
+          "en": "Gapyeong Hanseokbong B"
+        },
+        "Version": {
+          "en": "Version 1.000;Build 20230831"
+        },
+        "PostScript Name": {
+          "en": "GapyeongHanseokbong-Bold"
+        },
+        "Trademark": {
+          "en": "Gapyeong Hanseokbong is a trademark of Gapyeong County."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "en": "Lee Jeong-eun, Moon Ha-na, Oh Yu-bin, Han Dohee"
+        },
+        "URL Vendor": {
+          "en": "http://www.yoondesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.yoondesign.com"
+        },
+        "Typographic Family": {
+          "ko": "가평한석봉 큰붓",
+          "en": "Gapyeong Hanseokbong"
+        },
+        "Typographic Subfamily": {
+          "ko": "B",
+          "en": "B"
+        }
       }
     },
     {
@@ -350,110 +230,53 @@
       },
       "homepage": "http://www.yoondesign.com",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "en",
-            "value": "Copyright © 2023 Gapyeong County. All rights reserved."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "가평한석봉 가는붓 L"
-          },
-          {
-            "lang": "en",
-            "value": "Gapyeong Hanseokbong L"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "1.000;YDI ;GapyeongHanseokbong-Light"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "가평한석봉 가는붓 L"
-          },
-          {
-            "lang": "en",
-            "value": "Gapyeong Hanseokbong L"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.000;Build 20230831"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "GapyeongHanseokbong-Light"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "en",
-            "value": "Gapyeong Hanseokbong is a trademark of Gapyeong County."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "en",
-            "value": "YoonDesign Inc."
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "en",
-            "value": "Lee Jeong-eun, Moon Ha-na, Oh Yu-bin, Han Dohee"
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "http://www.yoondesign.com"
-          }
-        ],
-        "License Info URL": [
-          {
-            "lang": "en",
-            "value": "http://www.yoondesign.com"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "가평한석봉 가는붓"
-          },
-          {
-            "lang": "en",
-            "value": "Gapyeong Hanseokbong"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "L"
-          },
-          {
-            "lang": "en",
-            "value": "L"
-          }
-        ]
+        "Copyright": {
+          "en": "Copyright © 2023 Gapyeong County. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "가평한석봉 가는붓 L",
+          "en": "Gapyeong Hanseokbong L"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI ;GapyeongHanseokbong-Light"
+        },
+        "Full Font Name": {
+          "ko": "가평한석봉 가는붓 L",
+          "en": "Gapyeong Hanseokbong L"
+        },
+        "Version": {
+          "en": "Version 1.000;Build 20230831"
+        },
+        "PostScript Name": {
+          "en": "GapyeongHanseokbong-Light"
+        },
+        "Trademark": {
+          "en": "Gapyeong Hanseokbong is a trademark of Gapyeong County."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "en": "Lee Jeong-eun, Moon Ha-na, Oh Yu-bin, Han Dohee"
+        },
+        "URL Vendor": {
+          "en": "http://www.yoondesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.yoondesign.com"
+        },
+        "Typographic Family": {
+          "ko": "가평한석봉 가는붓",
+          "en": "Gapyeong Hanseokbong"
+        },
+        "Typographic Subfamily": {
+          "ko": "L",
+          "en": "L"
+        }
       }
     },
     {
@@ -500,110 +323,53 @@
       },
       "homepage": "http://www.yoondesign.com",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "en",
-            "value": "Copyright © 2023 Gapyeong County. All rights reserved."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "가평한석봉 중간붓 R"
-          },
-          {
-            "lang": "en",
-            "value": "Gapyeong Hanseokbong R"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "1.000;YDI ;GapyeongHanseokbong-Regular"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "가평한석봉 중간붓 R"
-          },
-          {
-            "lang": "en",
-            "value": "Gapyeong Hanseokbong R"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.000;Build 20230831"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "GapyeongHanseokbong-Regular"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "en",
-            "value": "Gapyeong Hanseokbong is a trademark of Gapyeong County."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "en",
-            "value": "YoonDesign Inc."
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "en",
-            "value": "Lee Jeong-eun, Moon Ha-na, Oh Yu-bin, Han Dohee"
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "http://www.yoondesign.com"
-          }
-        ],
-        "License Info URL": [
-          {
-            "lang": "en",
-            "value": "http://www.yoondesign.com"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "가평한석봉 중간붓"
-          },
-          {
-            "lang": "en",
-            "value": "Gapyeong Hanseokbong"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "R"
-          },
-          {
-            "lang": "en",
-            "value": "R"
-          }
-        ]
+        "Copyright": {
+          "en": "Copyright © 2023 Gapyeong County. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "가평한석봉 중간붓 R",
+          "en": "Gapyeong Hanseokbong R"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI ;GapyeongHanseokbong-Regular"
+        },
+        "Full Font Name": {
+          "ko": "가평한석봉 중간붓 R",
+          "en": "Gapyeong Hanseokbong R"
+        },
+        "Version": {
+          "en": "Version 1.000;Build 20230831"
+        },
+        "PostScript Name": {
+          "en": "GapyeongHanseokbong-Regular"
+        },
+        "Trademark": {
+          "en": "Gapyeong Hanseokbong is a trademark of Gapyeong County."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "en": "Lee Jeong-eun, Moon Ha-na, Oh Yu-bin, Han Dohee"
+        },
+        "URL Vendor": {
+          "en": "http://www.yoondesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.yoondesign.com"
+        },
+        "Typographic Family": {
+          "ko": "가평한석봉 중간붓",
+          "en": "Gapyeong Hanseokbong"
+        },
+        "Typographic Subfamily": {
+          "ko": "R",
+          "en": "R"
+        }
       }
     },
     {
@@ -650,90 +416,45 @@
       },
       "homepage": "http://www.yoondesign.com",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "en",
-            "value": "Copyright © 2023 Gapyeong County. All rights reserved."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "가평물결"
-          },
-          {
-            "lang": "en",
-            "value": "Gapyeong Wave"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "1.000;YDI ;GapyeongWave"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "가평물결"
-          },
-          {
-            "lang": "en",
-            "value": "Gapyeong Wave"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.000;Build 20230831"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "GapyeongWave"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "en",
-            "value": "Gapyeong Wave is a trademark of Gapyeong County."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "en",
-            "value": "YoonDesign Inc."
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "en",
-            "value": "Lee Jeong-eun, Han Dohee"
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "http://www.yoondesign.com"
-          }
-        ],
-        "License Info URL": [
-          {
-            "lang": "en",
-            "value": "http://www.yoondesign.com"
-          }
-        ]
+        "Copyright": {
+          "en": "Copyright © 2023 Gapyeong County. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "가평물결",
+          "en": "Gapyeong Wave"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI ;GapyeongWave"
+        },
+        "Full Font Name": {
+          "ko": "가평물결",
+          "en": "Gapyeong Wave"
+        },
+        "Version": {
+          "en": "Version 1.000;Build 20230831"
+        },
+        "PostScript Name": {
+          "en": "GapyeongWave"
+        },
+        "Trademark": {
+          "en": "Gapyeong Wave is a trademark of Gapyeong County."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "en": "Lee Jeong-eun, Han Dohee"
+        },
+        "URL Vendor": {
+          "en": "http://www.yoondesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.yoondesign.com"
+        }
       }
     },
     {
@@ -779,78 +500,42 @@
       },
       "homepage": "https://jamo.works",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "en",
-            "value": "Copyright 2022 The Gasoek Project Authors (https://github.com/JAMO-TYPEFACE/Gasoek)"
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "en",
-            "value": "Gasoek One"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "1.000;JAMO;GasoekOne-Regular"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "en",
-            "value": "Gasoek One Regular"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.000; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.29]"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "GasoekOne-Regular"
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "en",
-            "value": "JAMO"
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "en",
-            "value": "Jiashuo Zhang"
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "https://jamo.works"
-          }
-        ],
-        "License Description": [
-          {
-            "lang": "en",
-            "value": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL"
-          }
-        ],
-        "License Info URL": [
-          {
-            "lang": "en",
-            "value": "https://scripts.sil.org/OFL"
-          }
-        ]
+        "Copyright": {
+          "en": "Copyright 2022 The Gasoek Project Authors (https://github.com/JAMO-TYPEFACE/Gasoek)"
+        },
+        "Font Family": {
+          "en": "Gasoek One"
+        },
+        "Font Subfamily (Style)": {
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;JAMO;GasoekOne-Regular"
+        },
+        "Full Font Name": {
+          "en": "Gasoek One Regular"
+        },
+        "Version": {
+          "en": "Version 1.000; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.29]"
+        },
+        "PostScript Name": {
+          "en": "GasoekOne-Regular"
+        },
+        "Manufacturer": {
+          "en": "JAMO"
+        },
+        "Designer": {
+          "en": "Jiashuo Zhang"
+        },
+        "URL Vendor": {
+          "en": "https://jamo.works"
+        },
+        "License Description": {
+          "en": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL"
+        },
+        "License Info URL": {
+          "en": "https://scripts.sil.org/OFL"
+        }
       }
     },
     {
@@ -899,128 +584,59 @@
       },
       "homepage": "http://www.gmarket.co.kr",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "Copyright � 2019 eBay Korea Co., Ltd. All rights reserved."
-          },
-          {
-            "lang": "en",
-            "value": "Copyright © 2019 eBay Korea Co., Ltd. All rights reserved."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "G마켓 산스 Bold"
-          },
-          {
-            "lang": "en",
-            "value": "Gmarket Sans Bold"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "1.000;SAND;GmarketSansBold;190917_02;"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "G마켓 산스 Bold"
-          },
-          {
-            "lang": "en",
-            "value": "Gmarket Sans Bold"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.000;hotconv 1.0.109;makeotfexe 2.5.65596"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "GmarketSansBold"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "en",
-            "value": "GmarketSansBold is a registered trademark of eBay Korea."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "en",
-            "value": "Sandoll Inc."
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "ko",
-            "value": "Creative Director : Sungho Lee; Art Director : Kiwoong Choi; Project Manager : Sori Yang, Jongwook Yoon; Font Designer : Chorong Kim, Juseong Park, Changseop Im"
-          },
-          {
-            "lang": "en",
-            "value": "Creative Director : Sungho Lee; Art Director : Kiwoong Choi; Project Manager : Sori Yang, Jongwook Yoon; Font Designer : Chorong Kim, Juseong Park, Changseop Im"
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "http://www.gmarket.co.kr"
-          }
-        ],
-        "License Description": [
-          {
-            "lang": "ko",
-            "value": "[요약]\r\n\r\n가능: 상업적 목적의 사용 (사용범위: 인쇄물,광고물, 온라인, 영상 포함\r\n\r\n수정 및 배포)\r\n\r\n불가능: 서브라이선스, 단독판매, 상표권 이용\r\n\r\n필수조건: 라이선스 포함, 수정 시 명칭 변경\r\n\r\n\r\n\r\n-G마켓산스 폰트의 지적재산권은 ㈜이베이코리아에게 있습니다.\r\n\r\n-G마켓산스 폰트는 개인 및 기업 사용자를 포함한 모든 사용자들에게 무료로 제공됩니다.\r\n\r\n-수정은 가능하나, 수정 시 ‘G마켓산스 폰트’라는 명칭은 사용할 수 없습니다.\r\n\r\n-G마켓산스 폰트를 유료로 판매하는 것은 금지되며, 본 저작권 안내 및 라이선스 전문을 포함하여 다른 소프트웨어와 번들하거나 재배포 또는 판매는 가능합니다.\r\n\r\n-라이선스 전문을 포함하기 어려울 경우 G마켓산스 폰트의 출처 표기를 권장합니다.\r\n\r\n(예시: 이 페이지는 이베이코리아에서 제공한 G마켓산스폰트가 적용되어 있습니다.)\r\n\r\n-G마켓산스 폰트를 사용한 제작물(인쇄물, 광고물, 온라인, 영상 포함)은 ㈜이베이코리아의 프로모션을 위해 활용될 수 있습니다. 이를 원하지 않는 사용자는 언제든지 이베이코리아에 사용중단을 요청하실 수 있습니다.\r\n\r\n-정확한 사용 조건은 아래 라이선스 전문을 참고하여 주십시오. 아래 라이선스 전문의 법적 효력은 영문에 한하고, 한글은 이용자의 이해를 돕기 위하여 제공되었습니다.\r\n\r\n \r\n\r\n[라이선스]\r\n\r\nCopyright © < 2019.>, <eBay Korea Co., Ltd.> (<www.gmarket.co.kr>),\r\nwith Reserved Font Name <Gmarket Sans Font>.\r\n\r\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\r\n\r\n \r\n\r\n[정의]\r\n\r\n‘폰트 소프트웨어’는 본 라이선스에 입거해 저작권자가 배포하고 명확하게 같은 표시가 된 파일들의 집합을 뜻하며, 여기에는 소스 파일, 빌드 스크립트와 문서가 이에 포함됩니다.\r\n\r\n‘저작권이 있는 폰트명’은 저작권 정책에 따라서 지정된 이름을 말합니다.\r\n\r\n‘원본’은 저작권자가 배포한 폰트 소프트웨어 구성요소를 의미합니다.\r\n\r\n‘수정본’은 포맷의 변경이나 폰트 소프트웨어를 새로운 환경에 포팅시켜, 원본의 일부 혹은 전체에 추가, 삭제 대체해 만든 파생 저작물을 의미합니다.\r\n\r\n‘저자’는 폰트 소프트웨어에 기여한 디자이너, 엔지니어, 프로그래머, 기술 전문가 등을 의미합니다.\r\n\r\n \r\n\r\n[전문]\r\n\r\n본 폰트 라이선스를 오픈 하는 것은(이하 OFL)는 전 세계 폰트 개발 프로젝트를 지원하고 학계와 언어 관련 학계의 폰트 개발을 위한 연구를 지지하기 위해서인 동시에, 폰트 제휴를 통해 폰트가 공유되고 개선될 수 있는 자유롭게 개방된 환경을 만들기 위해서 입니다.\r\n\r\nOFL은 라이선스를 취득한 폰트가 그 자체로 판매되지 않는 한 자유롭게 사용, 연구, 수정, 재배포 하는 것을 허가합니다. 수정된 폰트를 포함한 폰트는 저작권 명이 사용되지 않는 한 기타 소프트웨어와 함께 묶이거나 삽입, 재배포 할 수 있습니다. 단 폰트와 수정된 폰트는 기타 다른 라이선스에 포함되어 배포될 수는 없습니다. 이 라이선스 하에 있기 위한 폰트에 대한 요구사항은 본 폰트나 수정본을 사용하여 제작된 어떠한 문서에도 적용되지 않습니다.\r\n\r\n \r\n\r\n[허가 및 조건]\r\n\r\n 본 폰트 소프트웨어를 사용하도록 허가 받은 개인/기업/단체 누구라도 다음 명시된 조건에 따라 폰트 소프트웨어의 수정 혹은 수정되지 않은 복사본을 무료로 사용, 연구, 복사, 통합, 삽입, 수정, 재배포할 수 있도록 허가합니다.\r\n\r\n \r\n\r\n1) 원본이나 수정본의 폰트 소프트웨어 혹은 개별 구성요소인 폰트 자체가 판매되어서는 안됩니다.\r\n\r\n2) 본 폰트 소프트웨어의 원본 혹은 수정본은 상기 저작권 안내와 본 라이선스에 대한 내용을 포함하는 경우에는 다른 소프트웨어와 함께 묶이거나 재배포 혹은 판매가 가능합니다. 이는 독립 텍스트 파일과 가독성이 있는 헤더 혹은 유저가 용이하게 열람 가능한 이상 텍스트파일 혹은 이진파일 내 기계가 읽을 수 있는 메타데이터 형태를 모두 의미 합니다.\r\n\r\n3) 본 폰트 소프트웨어의 어떠한 수정본도 동일한 저작권자가 명시적 허가서를 부여하지 않는 한 저작권이 있는 폰트명을 사용해서는 안 됩니다. 본 제한 사항은 유저들에게 제공된 기존 폰트명을 뜻합니다.\r\n\r\n4) 본 폰트 소프트웨어의 저작권자 혹은 저자의 이름은 그들의 명시적 서면 허가가 있거나 또는 그들의 공헌을 인정하기 위한 경우를 제외하고는 수정본에 대한 사용을 유도,추천 혹은 광고하기 위한 목적으로 사용할 수 없습니다.\r\n\r\n5) 본 폰트 소프트웨어는 전체나 부분, 혹은 수정 여부에 상관없이 본 라이선스 하에 배포가 되어야 하며 기타 다른 라이선스 하에서는 배포를 할 수 없습니다. 폰트에 대한 요구조건은 이 라이선스 하에서만 유효하며 이 라이선스 하에 있기 위한 폰트에 대한 요구사항은 본 폰트 소프트웨어를 사용해 제작한 어떠한 문서에도 적용되지 않습니다.\r\n\r\n6) 본 폰트 소프트웨어의 전체나 부분, 혹은 수정 여부에 상관없이 사용된 제작물, 예를 들어 인쇄물, 홍보물, 온라인 영상 등의 이미지는 본 폰트 소프트웨어의 홍보를 위한 수단으로 활용될 수 있으나, 활용에 대한 거부의사는 구체적인 조건과 함께 저작권자에게 표시하여야 합니다.\r\n\r\n \r\n\r\n[계약의 종료]\r\n\r\n본 라이선스는 상기 조건 중 일부라도 부합되지 않으면 무효가 될 수 있습니다.\r\n\r\n \r\n\r\n[면책조항]\r\n\r\n본 폰트 소프트웨어는 저작권, 특허권, 상표권 및 기타 권리의 비침해성과 특정 목적에의 적합성 포함한 명시적, 묵시적인 어떠한 종류의 보증 없이 “있는 그대로” 제공됩니다. 어떠한 경우에도 저작권자는 본 폰트 소프트웨어의 사용 또는 이의 사용불가, 그밖에 폰트 소프트웨어의 취급과 관련하여 발생하는 모든 계약, 불법행위 혹은 다른 일로 하여금 발생하는 일반적, 특수적, 간접적, 부차적 혹은 필연적 손해를 포함하는 소송, 손해, 혹은 기타 책임에 대한 의무를 가지지 않습니다."
-          },
-          {
-            "lang": "en",
-            "value": "[LICENSE]\r\n\r\nCopyright © < 2019.>, <eBay Korea Co., Ltd.> (<www.gmarket.co.kr>),\r\nwith Reserved Font Name <Gmarket Sans Font>.\r\n\r\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\r\n\r\n\r\n\r\n[DEFINITIONS]\r\n\r\n\"Font Software\" refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.\r\n\r\n\"Reserved Font Name\" refers to any names specified as such after the copyright statement(s).\r\n\r\n\"Original Version\" refers to the collection of Font Software components as distributed by the Copyright Holder(s).\r\n\r\n\"Modified Version\" refers to any derivative made by adding to, deleting, or substituting in part or in whole any of the components of the Original Version, by changing formats or by porting the Font Software to a new environment.‘\r\n\r\n\"Author\" refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.\r\n\r\n \r\n\r\n[PREAMBLE]\r\n\r\nThe goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects,\r\n\r\nto support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.\r\n\r\nThe OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold\r\n\r\nby themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works.\r\n\r\nThe fonts and derivatives, however, cannot be released under any other type of license.\r\n\r\nThe requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.\r\n\r\n \r\n\r\n[PERMISSION & CONDITIONS]\r\n\r\nPermission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:\r\n\r\n\r\n1) Neither the Font Software nor any of its individual components,in Original or Modified Versions, may be sold by itself.\r\n\r\n2) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.\r\n\r\n3) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written\r\n\r\npermission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.\r\n\r\n4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.\r\n\r\n5) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.\r\n\r\n6) Any images of the production such as printouts, advertisement materials, online videos using the Font Software, modified or unmodified, in part or in whole, may be utilized as means of promoting the Font Software in discretion of the Copyright Holder unless explicitly expressed the rejection of utilization to the Copyright Holder with specific terms.\r\n\r\n \r\n\r\n[TERMINATION]\r\n\r\nThis license becomes null and void if any of the above conditions are not met.\r\n\r\n[DISCLAIMER]\r\n\r\nTHE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE."
-          }
-        ],
-        "License Info URL": [
-          {
-            "lang": "en",
-            "value": "www.gmarket.co.kr/corp/gmarketsans"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "G마켓 산스"
-          },
-          {
-            "lang": "en",
-            "value": "Gmarket Sans"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "Bold"
-          },
-          {
-            "lang": "en",
-            "value": "Bold"
-          }
-        ]
+        "Copyright": {
+          "ko": "Copyright � 2019 eBay Korea Co., Ltd. All rights reserved.",
+          "en": "Copyright © 2019 eBay Korea Co., Ltd. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "G마켓 산스 Bold",
+          "en": "Gmarket Sans Bold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;SAND;GmarketSansBold;190917_02;"
+        },
+        "Full Font Name": {
+          "ko": "G마켓 산스 Bold",
+          "en": "Gmarket Sans Bold"
+        },
+        "Version": {
+          "en": "Version 1.000;hotconv 1.0.109;makeotfexe 2.5.65596"
+        },
+        "PostScript Name": {
+          "en": "GmarketSansBold"
+        },
+        "Trademark": {
+          "en": "GmarketSansBold is a registered trademark of eBay Korea."
+        },
+        "Manufacturer": {
+          "en": "Sandoll Inc."
+        },
+        "Designer": {
+          "ko": "Creative Director : Sungho Lee; Art Director : Kiwoong Choi; Project Manager : Sori Yang, Jongwook Yoon; Font Designer : Chorong Kim, Juseong Park, Changseop Im",
+          "en": "Creative Director : Sungho Lee; Art Director : Kiwoong Choi; Project Manager : Sori Yang, Jongwook Yoon; Font Designer : Chorong Kim, Juseong Park, Changseop Im"
+        },
+        "URL Vendor": {
+          "en": "http://www.gmarket.co.kr"
+        },
+        "License Description": {
+          "ko": "[요약]\r\n\r\n가능: 상업적 목적의 사용 (사용범위: 인쇄물,광고물, 온라인, 영상 포함\r\n\r\n수정 및 배포)\r\n\r\n불가능: 서브라이선스, 단독판매, 상표권 이용\r\n\r\n필수조건: 라이선스 포함, 수정 시 명칭 변경\r\n\r\n\r\n\r\n-G마켓산스 폰트의 지적재산권은 ㈜이베이코리아에게 있습니다.\r\n\r\n-G마켓산스 폰트는 개인 및 기업 사용자를 포함한 모든 사용자들에게 무료로 제공됩니다.\r\n\r\n-수정은 가능하나, 수정 시 ‘G마켓산스 폰트’라는 명칭은 사용할 수 없습니다.\r\n\r\n-G마켓산스 폰트를 유료로 판매하는 것은 금지되며, 본 저작권 안내 및 라이선스 전문을 포함하여 다른 소프트웨어와 번들하거나 재배포 또는 판매는 가능합니다.\r\n\r\n-라이선스 전문을 포함하기 어려울 경우 G마켓산스 폰트의 출처 표기를 권장합니다.\r\n\r\n(예시: 이 페이지는 이베이코리아에서 제공한 G마켓산스폰트가 적용되어 있습니다.)\r\n\r\n-G마켓산스 폰트를 사용한 제작물(인쇄물, 광고물, 온라인, 영상 포함)은 ㈜이베이코리아의 프로모션을 위해 활용될 수 있습니다. 이를 원하지 않는 사용자는 언제든지 이베이코리아에 사용중단을 요청하실 수 있습니다.\r\n\r\n-정확한 사용 조건은 아래 라이선스 전문을 참고하여 주십시오. 아래 라이선스 전문의 법적 효력은 영문에 한하고, 한글은 이용자의 이해를 돕기 위하여 제공되었습니다.\r\n\r\n \r\n\r\n[라이선스]\r\n\r\nCopyright © < 2019.>, <eBay Korea Co., Ltd.> (<www.gmarket.co.kr>),\r\nwith Reserved Font Name <Gmarket Sans Font>.\r\n\r\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\r\n\r\n \r\n\r\n[정의]\r\n\r\n‘폰트 소프트웨어’는 본 라이선스에 입거해 저작권자가 배포하고 명확하게 같은 표시가 된 파일들의 집합을 뜻하며, 여기에는 소스 파일, 빌드 스크립트와 문서가 이에 포함됩니다.\r\n\r\n‘저작권이 있는 폰트명’은 저작권 정책에 따라서 지정된 이름을 말합니다.\r\n\r\n‘원본’은 저작권자가 배포한 폰트 소프트웨어 구성요소를 의미합니다.\r\n\r\n‘수정본’은 포맷의 변경이나 폰트 소프트웨어를 새로운 환경에 포팅시켜, 원본의 일부 혹은 전체에 추가, 삭제 대체해 만든 파생 저작물을 의미합니다.\r\n\r\n‘저자’는 폰트 소프트웨어에 기여한 디자이너, 엔지니어, 프로그래머, 기술 전문가 등을 의미합니다.\r\n\r\n \r\n\r\n[전문]\r\n\r\n본 폰트 라이선스를 오픈 하는 것은(이하 OFL)는 전 세계 폰트 개발 프로젝트를 지원하고 학계와 언어 관련 학계의 폰트 개발을 위한 연구를 지지하기 위해서인 동시에, 폰트 제휴를 통해 폰트가 공유되고 개선될 수 있는 자유롭게 개방된 환경을 만들기 위해서 입니다.\r\n\r\nOFL은 라이선스를 취득한 폰트가 그 자체로 판매되지 않는 한 자유롭게 사용, 연구, 수정, 재배포 하는 것을 허가합니다. 수정된 폰트를 포함한 폰트는 저작권 명이 사용되지 않는 한 기타 소프트웨어와 함께 묶이거나 삽입, 재배포 할 수 있습니다. 단 폰트와 수정된 폰트는 기타 다른 라이선스에 포함되어 배포될 수는 없습니다. 이 라이선스 하에 있기 위한 폰트에 대한 요구사항은 본 폰트나 수정본을 사용하여 제작된 어떠한 문서에도 적용되지 않습니다.\r\n\r\n \r\n\r\n[허가 및 조건]\r\n\r\n 본 폰트 소프트웨어를 사용하도록 허가 받은 개인/기업/단체 누구라도 다음 명시된 조건에 따라 폰트 소프트웨어의 수정 혹은 수정되지 않은 복사본을 무료로 사용, 연구, 복사, 통합, 삽입, 수정, 재배포할 수 있도록 허가합니다.\r\n\r\n \r\n\r\n1) 원본이나 수정본의 폰트 소프트웨어 혹은 개별 구성요소인 폰트 자체가 판매되어서는 안됩니다.\r\n\r\n2) 본 폰트 소프트웨어의 원본 혹은 수정본은 상기 저작권 안내와 본 라이선스에 대한 내용을 포함하는 경우에는 다른 소프트웨어와 함께 묶이거나 재배포 혹은 판매가 가능합니다. 이는 독립 텍스트 파일과 가독성이 있는 헤더 혹은 유저가 용이하게 열람 가능한 이상 텍스트파일 혹은 이진파일 내 기계가 읽을 수 있는 메타데이터 형태를 모두 의미 합니다.\r\n\r\n3) 본 폰트 소프트웨어의 어떠한 수정본도 동일한 저작권자가 명시적 허가서를 부여하지 않는 한 저작권이 있는 폰트명을 사용해서는 안 됩니다. 본 제한 사항은 유저들에게 제공된 기존 폰트명을 뜻합니다.\r\n\r\n4) 본 폰트 소프트웨어의 저작권자 혹은 저자의 이름은 그들의 명시적 서면 허가가 있거나 또는 그들의 공헌을 인정하기 위한 경우를 제외하고는 수정본에 대한 사용을 유도,추천 혹은 광고하기 위한 목적으로 사용할 수 없습니다.\r\n\r\n5) 본 폰트 소프트웨어는 전체나 부분, 혹은 수정 여부에 상관없이 본 라이선스 하에 배포가 되어야 하며 기타 다른 라이선스 하에서는 배포를 할 수 없습니다. 폰트에 대한 요구조건은 이 라이선스 하에서만 유효하며 이 라이선스 하에 있기 위한 폰트에 대한 요구사항은 본 폰트 소프트웨어를 사용해 제작한 어떠한 문서에도 적용되지 않습니다.\r\n\r\n6) 본 폰트 소프트웨어의 전체나 부분, 혹은 수정 여부에 상관없이 사용된 제작물, 예를 들어 인쇄물, 홍보물, 온라인 영상 등의 이미지는 본 폰트 소프트웨어의 홍보를 위한 수단으로 활용될 수 있으나, 활용에 대한 거부의사는 구체적인 조건과 함께 저작권자에게 표시하여야 합니다.\r\n\r\n \r\n\r\n[계약의 종료]\r\n\r\n본 라이선스는 상기 조건 중 일부라도 부합되지 않으면 무효가 될 수 있습니다.\r\n\r\n \r\n\r\n[면책조항]\r\n\r\n본 폰트 소프트웨어는 저작권, 특허권, 상표권 및 기타 권리의 비침해성과 특정 목적에의 적합성 포함한 명시적, 묵시적인 어떠한 종류의 보증 없이 “있는 그대로” 제공됩니다. 어떠한 경우에도 저작권자는 본 폰트 소프트웨어의 사용 또는 이의 사용불가, 그밖에 폰트 소프트웨어의 취급과 관련하여 발생하는 모든 계약, 불법행위 혹은 다른 일로 하여금 발생하는 일반적, 특수적, 간접적, 부차적 혹은 필연적 손해를 포함하는 소송, 손해, 혹은 기타 책임에 대한 의무를 가지지 않습니다.",
+          "en": "[LICENSE]\r\n\r\nCopyright © < 2019.>, <eBay Korea Co., Ltd.> (<www.gmarket.co.kr>),\r\nwith Reserved Font Name <Gmarket Sans Font>.\r\n\r\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\r\n\r\n\r\n\r\n[DEFINITIONS]\r\n\r\n\"Font Software\" refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.\r\n\r\n\"Reserved Font Name\" refers to any names specified as such after the copyright statement(s).\r\n\r\n\"Original Version\" refers to the collection of Font Software components as distributed by the Copyright Holder(s).\r\n\r\n\"Modified Version\" refers to any derivative made by adding to, deleting, or substituting in part or in whole any of the components of the Original Version, by changing formats or by porting the Font Software to a new environment.‘\r\n\r\n\"Author\" refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.\r\n\r\n \r\n\r\n[PREAMBLE]\r\n\r\nThe goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects,\r\n\r\nto support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.\r\n\r\nThe OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold\r\n\r\nby themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works.\r\n\r\nThe fonts and derivatives, however, cannot be released under any other type of license.\r\n\r\nThe requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.\r\n\r\n \r\n\r\n[PERMISSION & CONDITIONS]\r\n\r\nPermission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:\r\n\r\n\r\n1) Neither the Font Software nor any of its individual components,in Original or Modified Versions, may be sold by itself.\r\n\r\n2) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.\r\n\r\n3) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written\r\n\r\npermission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.\r\n\r\n4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.\r\n\r\n5) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.\r\n\r\n6) Any images of the production such as printouts, advertisement materials, online videos using the Font Software, modified or unmodified, in part or in whole, may be utilized as means of promoting the Font Software in discretion of the Copyright Holder unless explicitly expressed the rejection of utilization to the Copyright Holder with specific terms.\r\n\r\n \r\n\r\n[TERMINATION]\r\n\r\nThis license becomes null and void if any of the above conditions are not met.\r\n\r\n[DISCLAIMER]\r\n\r\nTHE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE."
+        },
+        "License Info URL": {
+          "en": "www.gmarket.co.kr/corp/gmarketsans"
+        },
+        "Typographic Family": {
+          "ko": "G마켓 산스",
+          "en": "Gmarket Sans"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        }
       }
     },
     {
@@ -1075,78 +691,42 @@
       },
       "homepage": "http://www.hanyang.co.kr",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "en",
-            "value": "(C) Copyright HanYang I&C Co.,Ltd. All rights reserved."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "en",
-            "value": "Gothic A1"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "2.50;UKWN;GothicA1-Regular"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "en",
-            "value": "Gothic A1 Regular"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 2.50"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "GothicA1-Regular"
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "en",
-            "value": "HanYang I&C Co.,Ltd."
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "en",
-            "value": "HanYang I&C Co.,Ltd."
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "http://www.hanyang.co.kr"
-          }
-        ],
-        "License Description": [
-          {
-            "lang": "en",
-            "value": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
-          }
-        ],
-        "License Info URL": [
-          {
-            "lang": "en",
-            "value": "http://scripts.sil.org/OFL"
-          }
-        ]
+        "Copyright": {
+          "en": "(C) Copyright HanYang I&C Co.,Ltd. All rights reserved."
+        },
+        "Font Family": {
+          "en": "Gothic A1"
+        },
+        "Font Subfamily (Style)": {
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "2.50;UKWN;GothicA1-Regular"
+        },
+        "Full Font Name": {
+          "en": "Gothic A1 Regular"
+        },
+        "Version": {
+          "en": "Version 2.50"
+        },
+        "PostScript Name": {
+          "en": "GothicA1-Regular"
+        },
+        "Manufacturer": {
+          "en": "HanYang I&C Co.,Ltd."
+        },
+        "Designer": {
+          "en": "HanYang I&C Co.,Ltd."
+        },
+        "URL Vendor": {
+          "en": "http://www.hanyang.co.kr"
+        },
+        "License Description": {
+          "en": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+        },
+        "License Info URL": {
+          "en": "http://scripts.sil.org/OFL"
+        }
       }
     },
     {
@@ -1193,136 +773,58 @@
         "embedding": "Preview & Print Embedding"
       },
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "COPYRIGHT BY GANGWON PROVINCIAL OFFICE OF EDUCATION. ALL RIGHTS RESERVED."
-          },
-          {
-            "lang": "en",
-            "value": "COPYRIGHT BY GANGWON PROVINCIAL OFFICE OF EDUCATION. ALL RIGHTS RESERVED."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "강원교육모두 OTF Bold"
-          },
-          {
-            "lang": "en",
-            "value": "GangwonEduAll OTF Bold"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "ko",
-            "value": "GANGWON PROVINCIAL OFFICE OF EDUCATION_강원교육모두 OTF_Bold"
-          },
-          {
-            "lang": "en",
-            "value": "GANGWON PROVINCIAL OFFICE OF EDUCATION_GangwonEduAll OTF_Bold"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "강원교육모두 OTF Bold"
-          },
-          {
-            "lang": "en",
-            "value": "GangwonEduAll OTFBold"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "ko",
-            "value": "Version 1.00"
-          },
-          {
-            "lang": "en",
-            "value": "Version 1.00"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "ko",
-            "value": "GangwonEduAll OTFBold"
-          },
-          {
-            "lang": "en",
-            "value": "GangwonEduAll OTFBold"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "ko",
-            "value": "GangwonEduAll OTF is a registered to GangwonEdu."
-          },
-          {
-            "lang": "en",
-            "value": "GangwonEduAll OTF is a registered to GangwonEdu."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "ko",
-            "value": "GangwonEdu."
-          },
-          {
-            "lang": "en",
-            "value": "GangwonEdu."
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "ko",
-            "value": "윤지희, 이해린"
-          },
-          {
-            "lang": "en",
-            "value": "Yoon Ji Hee, Lee Hae Rin"
-          }
-        ],
-        "License Description": [
-          {
-            "lang": "ko",
-            "value": "http://www.gwe.go.kr"
-          },
-          {
-            "lang": "en",
-            "value": "http://www.gwe.go.kr"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "강원교육모두 OTF"
-          },
-          {
-            "lang": "en",
-            "value": "GangwonEduAll OTF"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "Bold"
-          },
-          {
-            "lang": "en",
-            "value": "Bold"
-          }
-        ]
+        "Copyright": {
+          "ko": "COPYRIGHT BY GANGWON PROVINCIAL OFFICE OF EDUCATION. ALL RIGHTS RESERVED.",
+          "en": "COPYRIGHT BY GANGWON PROVINCIAL OFFICE OF EDUCATION. ALL RIGHTS RESERVED."
+        },
+        "Font Family": {
+          "ko": "강원교육모두 OTF Bold",
+          "en": "GangwonEduAll OTF Bold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "GANGWON PROVINCIAL OFFICE OF EDUCATION_강원교육모두 OTF_Bold",
+          "en": "GANGWON PROVINCIAL OFFICE OF EDUCATION_GangwonEduAll OTF_Bold"
+        },
+        "Full Font Name": {
+          "ko": "강원교육모두 OTF Bold",
+          "en": "GangwonEduAll OTFBold"
+        },
+        "Version": {
+          "ko": "Version 1.00",
+          "en": "Version 1.00"
+        },
+        "PostScript Name": {
+          "ko": "GangwonEduAll OTFBold",
+          "en": "GangwonEduAll OTFBold"
+        },
+        "Trademark": {
+          "ko": "GangwonEduAll OTF is a registered to GangwonEdu.",
+          "en": "GangwonEduAll OTF is a registered to GangwonEdu."
+        },
+        "Manufacturer": {
+          "ko": "GangwonEdu.",
+          "en": "GangwonEdu."
+        },
+        "Designer": {
+          "ko": "윤지희, 이해린",
+          "en": "Yoon Ji Hee, Lee Hae Rin"
+        },
+        "License Description": {
+          "ko": "http://www.gwe.go.kr",
+          "en": "http://www.gwe.go.kr"
+        },
+        "Typographic Family": {
+          "ko": "강원교육모두 OTF",
+          "en": "GangwonEduAll OTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        }
       }
     },
     {
@@ -1368,136 +870,58 @@
         "embedding": "Preview & Print Embedding"
       },
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "COPYRIGHT BY GANGWON PROVINCIAL OFFICE OF EDUCATION. ALL RIGHTS RESERVED."
-          },
-          {
-            "lang": "en",
-            "value": "COPYRIGHT BY GANGWON PROVINCIAL OFFICE OF EDUCATION. ALL RIGHTS RESERVED."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "강원교육현옥샘 OTF Medium"
-          },
-          {
-            "lang": "en",
-            "value": "GangwonEduHyeonokT OTF Medium"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "ko",
-            "value": "GANGWON PROVINCIAL OFFICE OF EDUCATION_강원교육현옥샘 OTF_Medium"
-          },
-          {
-            "lang": "en",
-            "value": "GANGWON PROVINCIAL OFFICE OF EDUCATION_GangwonEduHyeonokT OTF_Medium"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "강원교육현옥샘 OTF Medium"
-          },
-          {
-            "lang": "en",
-            "value": "GangwonEduHyeonokT OTF Medium"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "ko",
-            "value": "Version 1.00"
-          },
-          {
-            "lang": "en",
-            "value": "Version 1.00"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "ko",
-            "value": "GangwonEduHyeonokT_OTFMedium"
-          },
-          {
-            "lang": "en",
-            "value": "GangwonEduHyeonokT_OTFMedium"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "ko",
-            "value": "GangwonEduHyeonokT OTF is a registered to GangwonEdu."
-          },
-          {
-            "lang": "en",
-            "value": "GangwonEduHyeonokT OTF is a registered to GangwonEdu."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "ko",
-            "value": "GangwonEdu."
-          },
-          {
-            "lang": "en",
-            "value": "GangwonEdu."
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "ko",
-            "value": "윤지희, 이해린"
-          },
-          {
-            "lang": "en",
-            "value": "Yoon Ji Hee, Lee Hae Rin"
-          }
-        ],
-        "License Description": [
-          {
-            "lang": "ko",
-            "value": "http://www.gwe.go.kr"
-          },
-          {
-            "lang": "en",
-            "value": "http://www.gwe.go.kr"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "강원교육현옥샘 OTF"
-          },
-          {
-            "lang": "en",
-            "value": "GangwonEduHyeonokT OTF"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "Medium"
-          },
-          {
-            "lang": "en",
-            "value": "Medium"
-          }
-        ]
+        "Copyright": {
+          "ko": "COPYRIGHT BY GANGWON PROVINCIAL OFFICE OF EDUCATION. ALL RIGHTS RESERVED.",
+          "en": "COPYRIGHT BY GANGWON PROVINCIAL OFFICE OF EDUCATION. ALL RIGHTS RESERVED."
+        },
+        "Font Family": {
+          "ko": "강원교육현옥샘 OTF Medium",
+          "en": "GangwonEduHyeonokT OTF Medium"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "GANGWON PROVINCIAL OFFICE OF EDUCATION_강원교육현옥샘 OTF_Medium",
+          "en": "GANGWON PROVINCIAL OFFICE OF EDUCATION_GangwonEduHyeonokT OTF_Medium"
+        },
+        "Full Font Name": {
+          "ko": "강원교육현옥샘 OTF Medium",
+          "en": "GangwonEduHyeonokT OTF Medium"
+        },
+        "Version": {
+          "ko": "Version 1.00",
+          "en": "Version 1.00"
+        },
+        "PostScript Name": {
+          "ko": "GangwonEduHyeonokT_OTFMedium",
+          "en": "GangwonEduHyeonokT_OTFMedium"
+        },
+        "Trademark": {
+          "ko": "GangwonEduHyeonokT OTF is a registered to GangwonEdu.",
+          "en": "GangwonEduHyeonokT OTF is a registered to GangwonEdu."
+        },
+        "Manufacturer": {
+          "ko": "GangwonEdu.",
+          "en": "GangwonEdu."
+        },
+        "Designer": {
+          "ko": "윤지희, 이해린",
+          "en": "Yoon Ji Hee, Lee Hae Rin"
+        },
+        "License Description": {
+          "ko": "http://www.gwe.go.kr",
+          "en": "http://www.gwe.go.kr"
+        },
+        "Typographic Family": {
+          "ko": "강원교육현옥샘 OTF",
+          "en": "GangwonEduHyeonokT OTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Medium",
+          "en": "Medium"
+        }
       }
     },
     {
@@ -1543,136 +967,58 @@
         "embedding": "Preview & Print Embedding"
       },
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "COPYRIGHT BY GANGWON PROVINCIAL OFFICE OF EDUCATION. ALL RIGHTS RESERVED."
-          },
-          {
-            "lang": "en",
-            "value": "COPYRIGHT BY GANGWON PROVINCIAL OFFICE OF EDUCATION. ALL RIGHTS RESERVED."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "강원교육새음 OTF Medium"
-          },
-          {
-            "lang": "en",
-            "value": "GangwonEduSaeeum OTF Medium"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "ko",
-            "value": "GANGWON PROVINCIAL OFFICE OF EDUCATION_강원교육새음 OTF_Medium"
-          },
-          {
-            "lang": "en",
-            "value": "GANGWON PROVINCIAL OFFICE OF EDUCATION_GangwonEduSaeeum OTF_Medium"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "강원교육새음 OTF Medium"
-          },
-          {
-            "lang": "en",
-            "value": "GangwonEduSaeeum OTFMedium"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "ko",
-            "value": "Version 1.00"
-          },
-          {
-            "lang": "en",
-            "value": "Version 1.00"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "ko",
-            "value": "GangwonEduSaeeum OTFMedium"
-          },
-          {
-            "lang": "en",
-            "value": "GangwonEduSaeeum OTFMedium"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "ko",
-            "value": "GangwonEduSaeeum OTF is a registered to GangwonEdu."
-          },
-          {
-            "lang": "en",
-            "value": "GangwonEduSaeeum OTF is a registered to GangwonEdu."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "ko",
-            "value": "GangwonEdu."
-          },
-          {
-            "lang": "en",
-            "value": "GangwonEdu."
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "ko",
-            "value": "윤지희"
-          },
-          {
-            "lang": "en",
-            "value": "Yoon Ji Hee"
-          }
-        ],
-        "License Description": [
-          {
-            "lang": "ko",
-            "value": "http://www.gwe.go.kr"
-          },
-          {
-            "lang": "en",
-            "value": "http://www.gwe.go.kr"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "강원교육새음 OTF"
-          },
-          {
-            "lang": "en",
-            "value": "GangwonEduSaeeum OTF"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "Medium"
-          },
-          {
-            "lang": "en",
-            "value": "Medium"
-          }
-        ]
+        "Copyright": {
+          "ko": "COPYRIGHT BY GANGWON PROVINCIAL OFFICE OF EDUCATION. ALL RIGHTS RESERVED.",
+          "en": "COPYRIGHT BY GANGWON PROVINCIAL OFFICE OF EDUCATION. ALL RIGHTS RESERVED."
+        },
+        "Font Family": {
+          "ko": "강원교육새음 OTF Medium",
+          "en": "GangwonEduSaeeum OTF Medium"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "GANGWON PROVINCIAL OFFICE OF EDUCATION_강원교육새음 OTF_Medium",
+          "en": "GANGWON PROVINCIAL OFFICE OF EDUCATION_GangwonEduSaeeum OTF_Medium"
+        },
+        "Full Font Name": {
+          "ko": "강원교육새음 OTF Medium",
+          "en": "GangwonEduSaeeum OTFMedium"
+        },
+        "Version": {
+          "ko": "Version 1.00",
+          "en": "Version 1.00"
+        },
+        "PostScript Name": {
+          "ko": "GangwonEduSaeeum OTFMedium",
+          "en": "GangwonEduSaeeum OTFMedium"
+        },
+        "Trademark": {
+          "ko": "GangwonEduSaeeum OTF is a registered to GangwonEdu.",
+          "en": "GangwonEduSaeeum OTF is a registered to GangwonEdu."
+        },
+        "Manufacturer": {
+          "ko": "GangwonEdu.",
+          "en": "GangwonEdu."
+        },
+        "Designer": {
+          "ko": "윤지희",
+          "en": "Yoon Ji Hee"
+        },
+        "License Description": {
+          "ko": "http://www.gwe.go.kr",
+          "en": "http://www.gwe.go.kr"
+        },
+        "Typographic Family": {
+          "ko": "강원교육새음 OTF",
+          "en": "GangwonEduSaeeum OTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Medium",
+          "en": "Medium"
+        }
       }
     },
     {
@@ -1718,136 +1064,58 @@
         "embedding": "Preview & Print Embedding"
       },
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "COPYRIGHT BY GANGWON PROVINCIAL OFFICE OF EDUCATION. ALL RIGHTS RESERVED."
-          },
-          {
-            "lang": "en",
-            "value": "COPYRIGHT BY GANGWON PROVINCIAL OFFICE OF EDUCATION. ALL RIGHTS RESERVED."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "강원교육튼튼"
-          },
-          {
-            "lang": "en",
-            "value": "GangwonEduPower"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "ko",
-            "value": "GangwonEdu._강원교육튼튼"
-          },
-          {
-            "lang": "en",
-            "value": "GangwonEdu._GangwonEduPower"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "강원교육튼튼"
-          },
-          {
-            "lang": "en",
-            "value": "GangwonEduPower"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "ko",
-            "value": "Version 1.01"
-          },
-          {
-            "lang": "en",
-            "value": "Version 1.01"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "ko",
-            "value": "GangwonEduPowerExtraBold"
-          },
-          {
-            "lang": "en",
-            "value": "GangwonEduPowerExtraBold"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "ko",
-            "value": "GangwonEduPower is a registered to ROKA."
-          },
-          {
-            "lang": "en",
-            "value": "GangwonEduPower is a registered to GangwonEdu."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "ko",
-            "value": "GangwonEdu."
-          },
-          {
-            "lang": "en",
-            "value": "GangwonEdu."
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "ko",
-            "value": "이해린, 이예형"
-          },
-          {
-            "lang": "en",
-            "value": "Lee Hae Rin, Lee Ye Hyeong"
-          }
-        ],
-        "License Description": [
-          {
-            "lang": "ko",
-            "value": "http://www.gwe.go.kr"
-          },
-          {
-            "lang": "en",
-            "value": "http://www.gwe.go.kr"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "강원교육튼튼"
-          },
-          {
-            "lang": "en",
-            "value": "GangwonEduPower"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "ExtraBold"
-          },
-          {
-            "lang": "en",
-            "value": "ExtraBold"
-          }
-        ]
+        "Copyright": {
+          "ko": "COPYRIGHT BY GANGWON PROVINCIAL OFFICE OF EDUCATION. ALL RIGHTS RESERVED.",
+          "en": "COPYRIGHT BY GANGWON PROVINCIAL OFFICE OF EDUCATION. ALL RIGHTS RESERVED."
+        },
+        "Font Family": {
+          "ko": "강원교육튼튼",
+          "en": "GangwonEduPower"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "GangwonEdu._강원교육튼튼",
+          "en": "GangwonEdu._GangwonEduPower"
+        },
+        "Full Font Name": {
+          "ko": "강원교육튼튼",
+          "en": "GangwonEduPower"
+        },
+        "Version": {
+          "ko": "Version 1.01",
+          "en": "Version 1.01"
+        },
+        "PostScript Name": {
+          "ko": "GangwonEduPowerExtraBold",
+          "en": "GangwonEduPowerExtraBold"
+        },
+        "Trademark": {
+          "ko": "GangwonEduPower is a registered to ROKA.",
+          "en": "GangwonEduPower is a registered to GangwonEdu."
+        },
+        "Manufacturer": {
+          "ko": "GangwonEdu.",
+          "en": "GangwonEdu."
+        },
+        "Designer": {
+          "ko": "이해린, 이예형",
+          "en": "Lee Hae Rin, Lee Ye Hyeong"
+        },
+        "License Description": {
+          "ko": "http://www.gwe.go.kr",
+          "en": "http://www.gwe.go.kr"
+        },
+        "Typographic Family": {
+          "ko": "강원교육튼튼",
+          "en": "GangwonEduPower"
+        },
+        "Typographic Subfamily": {
+          "ko": "ExtraBold",
+          "en": "ExtraBold"
+        }
       }
     },
     {
@@ -1896,124 +1164,58 @@
       },
       "homepage": "http://www.sandolltium.co.kr",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "HS Hyosung is a registered trademark of HS Hyosung Co., Ltd."
-          },
-          {
-            "lang": "en",
-            "value": "HS Hyosung is a registered trademark of HS Hyosung Co., Ltd."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "HS Hyosung Bold"
-          },
-          {
-            "lang": "en",
-            "value": "HS Hyosung Bold"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Bold"
-          },
-          {
-            "lang": "en",
-            "value": "Bold"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "HSHyosung-Bd"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "HS Hyosung Bold"
-          },
-          {
-            "lang": "en",
-            "value": "HS Hyosung Bold"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.000;hotconv 1.0.109;makeotfexe 2.5.65596"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "HSHyosung-Bd"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "en",
-            "value": "HS Hyosung is a registered trademark of HS Hyosung Co., Ltd."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "en",
-            "value": "Sandolltium Inc."
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "ko",
-            "value": "권경석"
-          },
-          {
-            "lang": "en",
-            "value": "Kwon kyoungseok"
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "http://www.sandolltium.co.kr"
-          }
-        ],
-        "License Description": [
-          {
-            "lang": "en",
-            "value": "HS Hyosung Co., Ltd."
-          }
-        ],
-        "License Info URL": [
-          {
-            "lang": "en",
-            "value": "https://www.hshyosung.com/"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "HS Hyosung"
-          },
-          {
-            "lang": "en",
-            "value": "HS Hyosung"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "Bold"
-          },
-          {
-            "lang": "en",
-            "value": "Bold"
-          }
-        ]
+        "Copyright": {
+          "ko": "HS Hyosung is a registered trademark of HS Hyosung Co., Ltd.",
+          "en": "HS Hyosung is a registered trademark of HS Hyosung Co., Ltd."
+        },
+        "Font Family": {
+          "ko": "HS Hyosung Bold",
+          "en": "HS Hyosung Bold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Bold",
+          "en": "Bold"
+        },
+        "Unique Font Identifier": {
+          "en": "HSHyosung-Bd"
+        },
+        "Full Font Name": {
+          "ko": "HS Hyosung Bold",
+          "en": "HS Hyosung Bold"
+        },
+        "Version": {
+          "en": "Version 1.000;hotconv 1.0.109;makeotfexe 2.5.65596"
+        },
+        "PostScript Name": {
+          "en": "HSHyosung-Bd"
+        },
+        "Trademark": {
+          "en": "HS Hyosung is a registered trademark of HS Hyosung Co., Ltd."
+        },
+        "Manufacturer": {
+          "en": "Sandolltium Inc."
+        },
+        "Designer": {
+          "ko": "권경석",
+          "en": "Kwon kyoungseok"
+        },
+        "URL Vendor": {
+          "en": "http://www.sandolltium.co.kr"
+        },
+        "License Description": {
+          "en": "HS Hyosung Co., Ltd."
+        },
+        "License Info URL": {
+          "en": "https://www.hshyosung.com/"
+        },
+        "Typographic Family": {
+          "ko": "HS Hyosung",
+          "en": "HS Hyosung"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        }
       }
     },
     {
@@ -2060,124 +1262,58 @@
       },
       "homepage": "https://www.sandoll.co.kr",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "Copyright � GC COMPANY All rights reserved. Font Designed by Sandoll Inc."
-          },
-          {
-            "lang": "en",
-            "value": "Copyright © GC COMPANY All rights reserved. Font Designed by Sandoll Inc."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "여기어때 잘난체 2"
-          },
-          {
-            "lang": "en",
-            "value": "Jalnan 2"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "1.000;SAND;Jalnan2;230824_01;"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "여기어때 잘난체 2"
-          },
-          {
-            "lang": "en",
-            "value": "Jalnan 2"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.000;"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "Jalnan2"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "en",
-            "value": "Jalnan 2 is a registered trademark of GC COMPANY"
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "en",
-            "value": "Sandoll Inc."
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "ko",
-            "value": "여기어때컴퍼니; 이유빈;"
-          },
-          {
-            "lang": "en",
-            "value": "GC COMPANY; Yoobin-Lee;"
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "https://www.sandoll.co.kr"
-          }
-        ],
-        "License Description": [
-          {
-            "lang": "en",
-            "value": "The intellectual property rights of Jalnan 2 is with GC COMPANY. Jalnan 2 is provided free of charge to all users, including individual and corporate users, and can be freely modified and redistributed."
-          }
-        ],
-        "License Info URL": [
-          {
-            "lang": "en",
-            "value": "http://www.gccompany.co.kr"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "여기어때 잘난체 2"
-          },
-          {
-            "lang": "en",
-            "value": "Jalnan 2"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ]
+        "Copyright": {
+          "ko": "Copyright � GC COMPANY All rights reserved. Font Designed by Sandoll Inc.",
+          "en": "Copyright © GC COMPANY All rights reserved. Font Designed by Sandoll Inc."
+        },
+        "Font Family": {
+          "ko": "여기어때 잘난체 2",
+          "en": "Jalnan 2"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;SAND;Jalnan2;230824_01;"
+        },
+        "Full Font Name": {
+          "ko": "여기어때 잘난체 2",
+          "en": "Jalnan 2"
+        },
+        "Version": {
+          "en": "Version 1.000;"
+        },
+        "PostScript Name": {
+          "en": "Jalnan2"
+        },
+        "Trademark": {
+          "en": "Jalnan 2 is a registered trademark of GC COMPANY"
+        },
+        "Manufacturer": {
+          "en": "Sandoll Inc."
+        },
+        "Designer": {
+          "ko": "여기어때컴퍼니; 이유빈;",
+          "en": "GC COMPANY; Yoobin-Lee;"
+        },
+        "URL Vendor": {
+          "en": "https://www.sandoll.co.kr"
+        },
+        "License Description": {
+          "en": "The intellectual property rights of Jalnan 2 is with GC COMPANY. Jalnan 2 is provided free of charge to all users, including individual and corporate users, and can be freely modified and redistributed."
+        },
+        "License Info URL": {
+          "en": "http://www.gccompany.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "여기어때 잘난체 2",
+          "en": "Jalnan 2"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
       }
     },
     {
@@ -2224,124 +1360,58 @@
       },
       "homepage": "https://www.sandoll.co.kr",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "Copyright � GC COMPANY All rights reserved. Font Designed by Sandoll Inc."
-          },
-          {
-            "lang": "en",
-            "value": "Copyright © GC COMPANY All rights reserved. Font Designed by Sandoll Inc."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "여기어때 잘난체 고딕"
-          },
-          {
-            "lang": "en",
-            "value": "Jalnan Gothic"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "1.000;SAND;JalnanGothic;230824_01;"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "여기어때 잘난체 고딕"
-          },
-          {
-            "lang": "en",
-            "value": "Jalnan Gothic"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.000;"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "JalnanGothic"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "en",
-            "value": "Jalnan Gothic is a registered trademark of GC COMPANY"
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "en",
-            "value": "Sandoll Inc."
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "ko",
-            "value": "여기어때컴퍼니; 이유빈;"
-          },
-          {
-            "lang": "en",
-            "value": "GC COMPANY; Yoobin-Lee;"
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "https://www.sandoll.co.kr"
-          }
-        ],
-        "License Description": [
-          {
-            "lang": "en",
-            "value": "The intellectual property rights of Jalnan Gothic is with GC COMPANY. Jalnan Gothic is provided free of charge to all users, including individual and corporate users, and can be freely modified and redistributed."
-          }
-        ],
-        "License Info URL": [
-          {
-            "lang": "en",
-            "value": "http://www.gccompany.co.kr"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "여기어때 잘난체 고딕"
-          },
-          {
-            "lang": "en",
-            "value": "Jalnan Gothic"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ]
+        "Copyright": {
+          "ko": "Copyright � GC COMPANY All rights reserved. Font Designed by Sandoll Inc.",
+          "en": "Copyright © GC COMPANY All rights reserved. Font Designed by Sandoll Inc."
+        },
+        "Font Family": {
+          "ko": "여기어때 잘난체 고딕",
+          "en": "Jalnan Gothic"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;SAND;JalnanGothic;230824_01;"
+        },
+        "Full Font Name": {
+          "ko": "여기어때 잘난체 고딕",
+          "en": "Jalnan Gothic"
+        },
+        "Version": {
+          "en": "Version 1.000;"
+        },
+        "PostScript Name": {
+          "en": "JalnanGothic"
+        },
+        "Trademark": {
+          "en": "Jalnan Gothic is a registered trademark of GC COMPANY"
+        },
+        "Manufacturer": {
+          "en": "Sandoll Inc."
+        },
+        "Designer": {
+          "ko": "여기어때컴퍼니; 이유빈;",
+          "en": "GC COMPANY; Yoobin-Lee;"
+        },
+        "URL Vendor": {
+          "en": "https://www.sandoll.co.kr"
+        },
+        "License Description": {
+          "en": "The intellectual property rights of Jalnan Gothic is with GC COMPANY. Jalnan Gothic is provided free of charge to all users, including individual and corporate users, and can be freely modified and redistributed."
+        },
+        "License Info URL": {
+          "en": "http://www.gccompany.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "여기어때 잘난체 고딕",
+          "en": "Jalnan Gothic"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
       }
     },
     {
@@ -2389,124 +1459,58 @@
       },
       "homepage": "https://itsfont.com",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "Copyright (c) 2021 by Heungkuk Life Insurance Co., Ltd. All rights reserved."
-          },
-          {
-            "lang": "en",
-            "value": "Copyright (c) 2021 by Heungkuk Life Insurance Co., Ltd. All rights reserved."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "전화선체"
-          },
-          {
-            "lang": "en",
-            "value": "JeonHwaseon"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "Heungkuk Life Insurance Co., Ltd: JeonHwaseon: 2022"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "전화선체"
-          },
-          {
-            "lang": "en",
-            "value": "JeonHwaseon"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.000"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "JeonHwaseon"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "en",
-            "value": "JeonHwaseon is a trademark of Heungkuk Life Insurance Co., Ltd."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "en",
-            "value": "TOGETHERGROUP"
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "ko",
-            "value": "TOGETHERGROUP"
-          },
-          {
-            "lang": "en",
-            "value": "TOGETHERGROUP"
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "https://itsfont.com"
-          }
-        ],
-        "License Description": [
-          {
-            "lang": "en",
-            "value": "Heungkuk Life Insurance Co., Ltd"
-          }
-        ],
-        "License Info URL": [
-          {
-            "lang": "en",
-            "value": "https://www.heungkuklife.co.kr/"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "전화선체"
-          },
-          {
-            "lang": "en",
-            "value": "JeonHwaseon"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ]
+        "Copyright": {
+          "ko": "Copyright (c) 2021 by Heungkuk Life Insurance Co., Ltd. All rights reserved.",
+          "en": "Copyright (c) 2021 by Heungkuk Life Insurance Co., Ltd. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "전화선체",
+          "en": "JeonHwaseon"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "Heungkuk Life Insurance Co., Ltd: JeonHwaseon: 2022"
+        },
+        "Full Font Name": {
+          "ko": "전화선체",
+          "en": "JeonHwaseon"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "JeonHwaseon"
+        },
+        "Trademark": {
+          "en": "JeonHwaseon is a trademark of Heungkuk Life Insurance Co., Ltd."
+        },
+        "Manufacturer": {
+          "en": "TOGETHERGROUP"
+        },
+        "Designer": {
+          "ko": "TOGETHERGROUP",
+          "en": "TOGETHERGROUP"
+        },
+        "URL Vendor": {
+          "en": "https://itsfont.com"
+        },
+        "License Description": {
+          "en": "Heungkuk Life Insurance Co., Ltd"
+        },
+        "License Info URL": {
+          "en": "https://www.heungkuklife.co.kr/"
+        },
+        "Typographic Family": {
+          "ko": "전화선체",
+          "en": "JeonHwaseon"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
       }
     },
     {
@@ -2552,86 +1556,38 @@
         "embedding": "Preview & Print Embedding"
       },
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "Copyright(c) KBIZ  Co., Ltd."
-          },
-          {
-            "lang": "en",
-            "value": "Copyright(c) KBIZ  Co., Ltd."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "KBIZ한마음고딕 B"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsgo B"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "ko",
-            "value": "KBIZ한마음고딕 B Regular"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsgo B Regular"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "KBIZ한마음고딕 B"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsgo B"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "ko",
-            "value": "KBIZforSMEsgo_B"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsgo_B"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "KBIZ한마음고딕 B"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsgo B"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ]
+        "Copyright": {
+          "ko": "Copyright(c) KBIZ  Co., Ltd.",
+          "en": "Copyright(c) KBIZ  Co., Ltd."
+        },
+        "Font Family": {
+          "ko": "KBIZ한마음고딕 B",
+          "en": "KBIZforSMEsgo B"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "KBIZ한마음고딕 B Regular",
+          "en": "KBIZforSMEsgo B Regular"
+        },
+        "Full Font Name": {
+          "ko": "KBIZ한마음고딕 B",
+          "en": "KBIZforSMEsgo B"
+        },
+        "PostScript Name": {
+          "ko": "KBIZforSMEsgo_B",
+          "en": "KBIZforSMEsgo_B"
+        },
+        "Typographic Family": {
+          "ko": "KBIZ한마음고딕 B",
+          "en": "KBIZforSMEsgo B"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
       }
     },
     {
@@ -2677,86 +1633,38 @@
         "embedding": "Preview & Print Embedding"
       },
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "Copyright(c) KBIZ  Co., Ltd."
-          },
-          {
-            "lang": "en",
-            "value": "Copyright(c) KBIZ  Co., Ltd."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "KBIZ한마음고딕 H"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsgo H"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "ko",
-            "value": "KBIZ한마음고딕 H Regular"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsgo H Regular"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "KBIZ한마음고딕 H"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsgo H"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "ko",
-            "value": "KBIZforSMEsgo_H"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsgo_H"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "KBIZ한마음고딕 H"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsgo H"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ]
+        "Copyright": {
+          "ko": "Copyright(c) KBIZ  Co., Ltd.",
+          "en": "Copyright(c) KBIZ  Co., Ltd."
+        },
+        "Font Family": {
+          "ko": "KBIZ한마음고딕 H",
+          "en": "KBIZforSMEsgo H"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "KBIZ한마음고딕 H Regular",
+          "en": "KBIZforSMEsgo H Regular"
+        },
+        "Full Font Name": {
+          "ko": "KBIZ한마음고딕 H",
+          "en": "KBIZforSMEsgo H"
+        },
+        "PostScript Name": {
+          "ko": "KBIZforSMEsgo_H",
+          "en": "KBIZforSMEsgo_H"
+        },
+        "Typographic Family": {
+          "ko": "KBIZ한마음고딕 H",
+          "en": "KBIZforSMEsgo H"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
       }
     },
     {
@@ -2802,66 +1710,30 @@
         "embedding": "Preview & Print Embedding"
       },
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "Copyright(c) KBIZ  Co., Ltd."
-          },
-          {
-            "lang": "en",
-            "value": "Copyright(c) KBIZ  Co., Ltd."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "KBIZ한마음고딕 L"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsgo L"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "ko",
-            "value": "KBIZ한마음고딕 L Regular"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsgo L Regular"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "KBIZ한마음고딕 L"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsgo L"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "ko",
-            "value": "KBIZforSMEsgo_L"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsgo_L"
-          }
-        ]
+        "Copyright": {
+          "ko": "Copyright(c) KBIZ  Co., Ltd.",
+          "en": "Copyright(c) KBIZ  Co., Ltd."
+        },
+        "Font Family": {
+          "ko": "KBIZ한마음고딕 L",
+          "en": "KBIZforSMEsgo L"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "KBIZ한마음고딕 L Regular",
+          "en": "KBIZforSMEsgo L Regular"
+        },
+        "Full Font Name": {
+          "ko": "KBIZ한마음고딕 L",
+          "en": "KBIZforSMEsgo L"
+        },
+        "PostScript Name": {
+          "ko": "KBIZforSMEsgo_L",
+          "en": "KBIZforSMEsgo_L"
+        }
       }
     },
     {
@@ -2907,86 +1779,38 @@
         "embedding": "Preview & Print Embedding"
       },
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "Copyright(c) KBIZ  Co., Ltd."
-          },
-          {
-            "lang": "en",
-            "value": "Copyright(c) KBIZ  Co., Ltd."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "KBIZ한마음고딕 M"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsgo M"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "ko",
-            "value": "KBIZ한마음고딕 M Regular"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsgo M Regular"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "KBIZ한마음고딕 M"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsgo M"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "ko",
-            "value": "KBIZforSMEsgo_M"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsgo_M"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "KBIZ한마음고딕 M"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsgo M"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ]
+        "Copyright": {
+          "ko": "Copyright(c) KBIZ  Co., Ltd.",
+          "en": "Copyright(c) KBIZ  Co., Ltd."
+        },
+        "Font Family": {
+          "ko": "KBIZ한마음고딕 M",
+          "en": "KBIZforSMEsgo M"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "KBIZ한마음고딕 M Regular",
+          "en": "KBIZforSMEsgo M Regular"
+        },
+        "Full Font Name": {
+          "ko": "KBIZ한마음고딕 M",
+          "en": "KBIZforSMEsgo M"
+        },
+        "PostScript Name": {
+          "ko": "KBIZforSMEsgo_M",
+          "en": "KBIZforSMEsgo_M"
+        },
+        "Typographic Family": {
+          "ko": "KBIZ한마음고딕 M",
+          "en": "KBIZforSMEsgo M"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
       }
     },
     {
@@ -3032,86 +1856,38 @@
         "embedding": "Preview & Print Embedding"
       },
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "Copyright(c) KBIZ  Co., Ltd."
-          },
-          {
-            "lang": "en",
-            "value": "Copyright(c) KBIZ  Co., Ltd."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "KBIZ한마음고딕 R"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsgo R"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "ko",
-            "value": "KBIZ한마음고딕 R Regular"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsgo R Regular"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "KBIZ한마음고딕 R"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsgo R"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "ko",
-            "value": "KBIZforSMEsgo_R"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsgo_R"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "KBIZ한마음고딕 R"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsgo R"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ]
+        "Copyright": {
+          "ko": "Copyright(c) KBIZ  Co., Ltd.",
+          "en": "Copyright(c) KBIZ  Co., Ltd."
+        },
+        "Font Family": {
+          "ko": "KBIZ한마음고딕 R",
+          "en": "KBIZforSMEsgo R"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "KBIZ한마음고딕 R Regular",
+          "en": "KBIZforSMEsgo R Regular"
+        },
+        "Full Font Name": {
+          "ko": "KBIZ한마음고딕 R",
+          "en": "KBIZforSMEsgo R"
+        },
+        "PostScript Name": {
+          "ko": "KBIZforSMEsgo_R",
+          "en": "KBIZforSMEsgo_R"
+        },
+        "Typographic Family": {
+          "ko": "KBIZ한마음고딕 R",
+          "en": "KBIZforSMEsgo R"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
       }
     },
     {
@@ -3157,86 +1933,38 @@
         "embedding": "Preview & Print Embedding"
       },
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "Copyright(c) KBIZ  Co., Ltd."
-          },
-          {
-            "lang": "en",
-            "value": "Copyright(c) KBIZ  Co., Ltd."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "KBIZ한마음명조 B"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsmjo B"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "ko",
-            "value": "KBIZ한마음명조 B Regular"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsmjo B Regular"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "KBIZ한마음명조 B"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsmjo B"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "ko",
-            "value": "KBIZforSMEsmjo_B"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsmjo_B"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "KBIZ한마음명조 B"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsmjo B"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ]
+        "Copyright": {
+          "ko": "Copyright(c) KBIZ  Co., Ltd.",
+          "en": "Copyright(c) KBIZ  Co., Ltd."
+        },
+        "Font Family": {
+          "ko": "KBIZ한마음명조 B",
+          "en": "KBIZforSMEsmjo B"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "KBIZ한마음명조 B Regular",
+          "en": "KBIZforSMEsmjo B Regular"
+        },
+        "Full Font Name": {
+          "ko": "KBIZ한마음명조 B",
+          "en": "KBIZforSMEsmjo B"
+        },
+        "PostScript Name": {
+          "ko": "KBIZforSMEsmjo_B",
+          "en": "KBIZforSMEsmjo_B"
+        },
+        "Typographic Family": {
+          "ko": "KBIZ한마음명조 B",
+          "en": "KBIZforSMEsmjo B"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
       }
     },
     {
@@ -3282,86 +2010,38 @@
         "embedding": "Preview & Print Embedding"
       },
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "Copyright(c) KBIZ  Co., Ltd."
-          },
-          {
-            "lang": "en",
-            "value": "Copyright(c) KBIZ  Co., Ltd."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "KBIZ한마음명조 L"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsmjo L"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "ko",
-            "value": "KBIZ한마음명조 L Regular"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsmjo L Regular"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "KBIZ한마음명조 L"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsmjo L"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "ko",
-            "value": "KBIZforSMEsmjo_L"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsmjo_L"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "KBIZ한마음명조 L"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsmjo L"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ]
+        "Copyright": {
+          "ko": "Copyright(c) KBIZ  Co., Ltd.",
+          "en": "Copyright(c) KBIZ  Co., Ltd."
+        },
+        "Font Family": {
+          "ko": "KBIZ한마음명조 L",
+          "en": "KBIZforSMEsmjo L"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "KBIZ한마음명조 L Regular",
+          "en": "KBIZforSMEsmjo L Regular"
+        },
+        "Full Font Name": {
+          "ko": "KBIZ한마음명조 L",
+          "en": "KBIZforSMEsmjo L"
+        },
+        "PostScript Name": {
+          "ko": "KBIZforSMEsmjo_L",
+          "en": "KBIZforSMEsmjo_L"
+        },
+        "Typographic Family": {
+          "ko": "KBIZ한마음명조 L",
+          "en": "KBIZforSMEsmjo L"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
       }
     },
     {
@@ -3407,86 +2087,38 @@
         "embedding": "Preview & Print Embedding"
       },
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "Copyright(c) KBIZ  Co., Ltd."
-          },
-          {
-            "lang": "en",
-            "value": "Copyright(c) KBIZ  Co., Ltd."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "KBIZ한마음명조 M"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsmjo M"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "ko",
-            "value": "KBIZ한마음명조 M Regular"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsmjo M Regular"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "KBIZ한마음명조 M"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsmjo M"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "ko",
-            "value": "KBIZforSMEsmjo_M"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsmjo_M"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "KBIZ한마음명조 M"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsmjo M"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ]
+        "Copyright": {
+          "ko": "Copyright(c) KBIZ  Co., Ltd.",
+          "en": "Copyright(c) KBIZ  Co., Ltd."
+        },
+        "Font Family": {
+          "ko": "KBIZ한마음명조 M",
+          "en": "KBIZforSMEsmjo M"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "KBIZ한마음명조 M Regular",
+          "en": "KBIZforSMEsmjo M Regular"
+        },
+        "Full Font Name": {
+          "ko": "KBIZ한마음명조 M",
+          "en": "KBIZforSMEsmjo M"
+        },
+        "PostScript Name": {
+          "ko": "KBIZforSMEsmjo_M",
+          "en": "KBIZforSMEsmjo_M"
+        },
+        "Typographic Family": {
+          "ko": "KBIZ한마음명조 M",
+          "en": "KBIZforSMEsmjo M"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
       }
     },
     {
@@ -3532,86 +2164,38 @@
         "embedding": "Preview & Print Embedding"
       },
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "Copyright(c) KBIZ  Co., Ltd."
-          },
-          {
-            "lang": "en",
-            "value": "Copyright(c) KBIZ  Co., Ltd."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "KBIZ한마음명조 R"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsmjo R"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "ko",
-            "value": "KBIZ한마음명조 R Regular"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsmjo R Regular"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "KBIZ한마음명조 R"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsmjo R"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "ko",
-            "value": "KBIZforSMEsmjo_R"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsmjo_R"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "KBIZ한마음명조 R"
-          },
-          {
-            "lang": "en",
-            "value": "KBIZforSMEsmjo R"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ]
+        "Copyright": {
+          "ko": "Copyright(c) KBIZ  Co., Ltd.",
+          "en": "Copyright(c) KBIZ  Co., Ltd."
+        },
+        "Font Family": {
+          "ko": "KBIZ한마음명조 R",
+          "en": "KBIZforSMEsmjo R"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "KBIZ한마음명조 R Regular",
+          "en": "KBIZforSMEsmjo R Regular"
+        },
+        "Full Font Name": {
+          "ko": "KBIZ한마음명조 R",
+          "en": "KBIZforSMEsmjo R"
+        },
+        "PostScript Name": {
+          "ko": "KBIZforSMEsmjo_R",
+          "en": "KBIZforSMEsmjo_R"
+        },
+        "Typographic Family": {
+          "ko": "KBIZ한마음명조 R",
+          "en": "KBIZforSMEsmjo R"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
       }
     },
     {
@@ -3659,128 +2243,59 @@
       },
       "homepage": "https://itsfont.com/",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "Copyright (c) 2025 by Korean Basketball League. All rights reserved."
-          },
-          {
-            "lang": "en",
-            "value": "Copyright (c) 2025 by Korean Basketball League. All rights reserved."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "KBL 코트체 EB TTF"
-          },
-          {
-            "lang": "en",
-            "value": "KBL Court EB TTF"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "EB"
-          },
-          {
-            "lang": "en",
-            "value": "EB"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "KBL Court EB TTF"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "KBL 코트체 EB TTF"
-          },
-          {
-            "lang": "en",
-            "value": "KBL Court EB TTF"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.000;Glyphs 3.3.1 (3343)"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "KBLCourt_EBTTF"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "ko",
-            "value": "KBL Court EB TTF is a trademark of Korean Basketball League."
-          },
-          {
-            "lang": "en",
-            "value": "KBL Court EB TTF is a trademark of Korean Basketball League."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "en",
-            "value": "TOGETHERGROUP"
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "ko",
-            "value": "TOGETHERGROUP"
-          },
-          {
-            "lang": "en",
-            "value": "TOGETHERGROUP"
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "https://itsfont.com/"
-          }
-        ],
-        "License Description": [
-          {
-            "lang": "en",
-            "value": "Korean Basketball League"
-          }
-        ],
-        "License Info URL": [
-          {
-            "lang": "en",
-            "value": "https://www.kbl.or.kr/"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "KBL 코트체 TTF"
-          },
-          {
-            "lang": "en",
-            "value": "KBL Court TTF"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "EB"
-          },
-          {
-            "lang": "en",
-            "value": "EB"
-          }
-        ]
+        "Copyright": {
+          "ko": "Copyright (c) 2025 by Korean Basketball League. All rights reserved.",
+          "en": "Copyright (c) 2025 by Korean Basketball League. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "KBL 코트체 EB TTF",
+          "en": "KBL Court EB TTF"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "EB",
+          "en": "EB"
+        },
+        "Unique Font Identifier": {
+          "en": "KBL Court EB TTF"
+        },
+        "Full Font Name": {
+          "ko": "KBL 코트체 EB TTF",
+          "en": "KBL Court EB TTF"
+        },
+        "Version": {
+          "en": "Version 1.000;Glyphs 3.3.1 (3343)"
+        },
+        "PostScript Name": {
+          "en": "KBLCourt_EBTTF"
+        },
+        "Trademark": {
+          "ko": "KBL Court EB TTF is a trademark of Korean Basketball League.",
+          "en": "KBL Court EB TTF is a trademark of Korean Basketball League."
+        },
+        "Manufacturer": {
+          "en": "TOGETHERGROUP"
+        },
+        "Designer": {
+          "ko": "TOGETHERGROUP",
+          "en": "TOGETHERGROUP"
+        },
+        "URL Vendor": {
+          "en": "https://itsfont.com/"
+        },
+        "License Description": {
+          "en": "Korean Basketball League"
+        },
+        "License Info URL": {
+          "en": "https://www.kbl.or.kr/"
+        },
+        "Typographic Family": {
+          "ko": "KBL 코트체 TTF",
+          "en": "KBL Court TTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "EB",
+          "en": "EB"
+        }
       }
     },
     {
@@ -3828,128 +2343,59 @@
       },
       "homepage": "https://itsfont.com/",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "Copyright (c) 2025 by Korean Basketball League. All rights reserved."
-          },
-          {
-            "lang": "en",
-            "value": "Copyright (c) 2025 by Korean Basketball League. All rights reserved."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "KBL 점프체 B TTF"
-          },
-          {
-            "lang": "en",
-            "value": "KBL Jump B TTF"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "B"
-          },
-          {
-            "lang": "en",
-            "value": "B"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "KBL Jump B TTF"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "KBL 점프체 B TTF"
-          },
-          {
-            "lang": "en",
-            "value": "KBL Jump B TTF"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.000;Glyphs 3.3.1 (3343)"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "KBLJump_BTTF"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "ko",
-            "value": "KBL Jump B TTF is a trademark of Korean Basketball League."
-          },
-          {
-            "lang": "en",
-            "value": "KBL Jump B TTF is a trademark of Korean Basketball League."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "en",
-            "value": "TOGETHERGROUP"
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "ko",
-            "value": "TOGETHERGROUP"
-          },
-          {
-            "lang": "en",
-            "value": "TOGETHERGROUP"
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "https://itsfont.com/"
-          }
-        ],
-        "License Description": [
-          {
-            "lang": "en",
-            "value": "Korean Basketball League"
-          }
-        ],
-        "License Info URL": [
-          {
-            "lang": "en",
-            "value": "https://www.kbl.or.kr/"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "KBL 점프체 TTF"
-          },
-          {
-            "lang": "en",
-            "value": "KBL Jump TTF"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "B"
-          },
-          {
-            "lang": "en",
-            "value": "B"
-          }
-        ]
+        "Copyright": {
+          "ko": "Copyright (c) 2025 by Korean Basketball League. All rights reserved.",
+          "en": "Copyright (c) 2025 by Korean Basketball League. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "KBL 점프체 B TTF",
+          "en": "KBL Jump B TTF"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "B",
+          "en": "B"
+        },
+        "Unique Font Identifier": {
+          "en": "KBL Jump B TTF"
+        },
+        "Full Font Name": {
+          "ko": "KBL 점프체 B TTF",
+          "en": "KBL Jump B TTF"
+        },
+        "Version": {
+          "en": "Version 1.000;Glyphs 3.3.1 (3343)"
+        },
+        "PostScript Name": {
+          "en": "KBLJump_BTTF"
+        },
+        "Trademark": {
+          "ko": "KBL Jump B TTF is a trademark of Korean Basketball League.",
+          "en": "KBL Jump B TTF is a trademark of Korean Basketball League."
+        },
+        "Manufacturer": {
+          "en": "TOGETHERGROUP"
+        },
+        "Designer": {
+          "ko": "TOGETHERGROUP",
+          "en": "TOGETHERGROUP"
+        },
+        "URL Vendor": {
+          "en": "https://itsfont.com/"
+        },
+        "License Description": {
+          "en": "Korean Basketball League"
+        },
+        "License Info URL": {
+          "en": "https://www.kbl.or.kr/"
+        },
+        "Typographic Family": {
+          "ko": "KBL 점프체 TTF",
+          "en": "KBL Jump TTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "B",
+          "en": "B"
+        }
       }
     },
     {
@@ -3997,128 +2443,59 @@
       },
       "homepage": "https://itsfont.com/",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "Copyright (c) 2025 by Korean Basketball League. All rights reserved."
-          },
-          {
-            "lang": "en",
-            "value": "Copyright (c) 2025 by Korean Basketball League. All rights reserved."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "KBL 점프체 EB Condensed TTF"
-          },
-          {
-            "lang": "en",
-            "value": "KBL Jump EB Condensed TTF"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "EB Condensed"
-          },
-          {
-            "lang": "en",
-            "value": "EB Condensed"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "KBL Jump EB Condensed TTF"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "KBL 점프체 EB Condensed TTF"
-          },
-          {
-            "lang": "en",
-            "value": "KBL Jump EB Condensed TTF"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.000;Glyphs 3.3.1 (3343)"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "KBLJump_EB_CondensedTTF"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "ko",
-            "value": "KBL Jump EB Condensed TTF is a trademark of Korean Basketball League."
-          },
-          {
-            "lang": "en",
-            "value": "KBL Jump EB Condensed TTF is a trademark of Korean Basketball League."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "en",
-            "value": "TOGETHERGROUP"
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "ko",
-            "value": "TOGETHERGROUP"
-          },
-          {
-            "lang": "en",
-            "value": "TOGETHERGROUP"
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "https://itsfont.com/"
-          }
-        ],
-        "License Description": [
-          {
-            "lang": "en",
-            "value": "Korean Basketball League"
-          }
-        ],
-        "License Info URL": [
-          {
-            "lang": "en",
-            "value": "https://www.kbl.or.kr/"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "KBL 점프체 TTF"
-          },
-          {
-            "lang": "en",
-            "value": "KBL Jump TTF"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "EB Condensed"
-          },
-          {
-            "lang": "en",
-            "value": "EB Condensed"
-          }
-        ]
+        "Copyright": {
+          "ko": "Copyright (c) 2025 by Korean Basketball League. All rights reserved.",
+          "en": "Copyright (c) 2025 by Korean Basketball League. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "KBL 점프체 EB Condensed TTF",
+          "en": "KBL Jump EB Condensed TTF"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "EB Condensed",
+          "en": "EB Condensed"
+        },
+        "Unique Font Identifier": {
+          "en": "KBL Jump EB Condensed TTF"
+        },
+        "Full Font Name": {
+          "ko": "KBL 점프체 EB Condensed TTF",
+          "en": "KBL Jump EB Condensed TTF"
+        },
+        "Version": {
+          "en": "Version 1.000;Glyphs 3.3.1 (3343)"
+        },
+        "PostScript Name": {
+          "en": "KBLJump_EB_CondensedTTF"
+        },
+        "Trademark": {
+          "ko": "KBL Jump EB Condensed TTF is a trademark of Korean Basketball League.",
+          "en": "KBL Jump EB Condensed TTF is a trademark of Korean Basketball League."
+        },
+        "Manufacturer": {
+          "en": "TOGETHERGROUP"
+        },
+        "Designer": {
+          "ko": "TOGETHERGROUP",
+          "en": "TOGETHERGROUP"
+        },
+        "URL Vendor": {
+          "en": "https://itsfont.com/"
+        },
+        "License Description": {
+          "en": "Korean Basketball League"
+        },
+        "License Info URL": {
+          "en": "https://www.kbl.or.kr/"
+        },
+        "Typographic Family": {
+          "ko": "KBL 점프체 TTF",
+          "en": "KBL Jump TTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "EB Condensed",
+          "en": "EB Condensed"
+        }
       }
     },
     {
@@ -4166,128 +2543,59 @@
       },
       "homepage": "https://itsfont.com/",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "Copyright (c) 2025 by Korean Basketball League. All rights reserved."
-          },
-          {
-            "lang": "en",
-            "value": "Copyright (c) 2025 by Korean Basketball League. All rights reserved."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "KBL 점프체 EB Extended TTF"
-          },
-          {
-            "lang": "en",
-            "value": "KBL Jump EB Extended TTF"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "EB Extended"
-          },
-          {
-            "lang": "en",
-            "value": "EB Extended"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "KBL Jump EB Extended TTF"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "KBL 점프체 EB Extended TTF"
-          },
-          {
-            "lang": "en",
-            "value": "KBL Jump EB Extended TTF"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.000;Glyphs 3.3.1 (3343)"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "KBLJump_EB_ExtendedTTF"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "ko",
-            "value": "KBL Jump EB Extended TTF is a trademark of Korean Basketball League."
-          },
-          {
-            "lang": "en",
-            "value": "KBL Jump EB Extended TTF is a trademark of Korean Basketball League."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "en",
-            "value": "TOGETHERGROUP"
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "ko",
-            "value": "TOGETHERGROUP"
-          },
-          {
-            "lang": "en",
-            "value": "TOGETHERGROUP"
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "https://itsfont.com/"
-          }
-        ],
-        "License Description": [
-          {
-            "lang": "en",
-            "value": "Korean Basketball League"
-          }
-        ],
-        "License Info URL": [
-          {
-            "lang": "en",
-            "value": "https://www.kbl.or.kr/"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "KBL 점프체 TTF"
-          },
-          {
-            "lang": "en",
-            "value": "KBL Jump TTF"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "EB Extended"
-          },
-          {
-            "lang": "en",
-            "value": "EB Extended"
-          }
-        ]
+        "Copyright": {
+          "ko": "Copyright (c) 2025 by Korean Basketball League. All rights reserved.",
+          "en": "Copyright (c) 2025 by Korean Basketball League. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "KBL 점프체 EB Extended TTF",
+          "en": "KBL Jump EB Extended TTF"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "EB Extended",
+          "en": "EB Extended"
+        },
+        "Unique Font Identifier": {
+          "en": "KBL Jump EB Extended TTF"
+        },
+        "Full Font Name": {
+          "ko": "KBL 점프체 EB Extended TTF",
+          "en": "KBL Jump EB Extended TTF"
+        },
+        "Version": {
+          "en": "Version 1.000;Glyphs 3.3.1 (3343)"
+        },
+        "PostScript Name": {
+          "en": "KBLJump_EB_ExtendedTTF"
+        },
+        "Trademark": {
+          "ko": "KBL Jump EB Extended TTF is a trademark of Korean Basketball League.",
+          "en": "KBL Jump EB Extended TTF is a trademark of Korean Basketball League."
+        },
+        "Manufacturer": {
+          "en": "TOGETHERGROUP"
+        },
+        "Designer": {
+          "ko": "TOGETHERGROUP",
+          "en": "TOGETHERGROUP"
+        },
+        "URL Vendor": {
+          "en": "https://itsfont.com/"
+        },
+        "License Description": {
+          "en": "Korean Basketball League"
+        },
+        "License Info URL": {
+          "en": "https://www.kbl.or.kr/"
+        },
+        "Typographic Family": {
+          "ko": "KBL 점프체 TTF",
+          "en": "KBL Jump TTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "EB Extended",
+          "en": "EB Extended"
+        }
       }
     },
     {
@@ -4335,128 +2643,59 @@
       },
       "homepage": "https://itsfont.com/",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "Copyright (c) 2025 by Korean Basketball League. All rights reserved."
-          },
-          {
-            "lang": "en",
-            "value": "Copyright (c) 2025 by Korean Basketball League. All rights reserved."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "KBL 점프체 R TTF"
-          },
-          {
-            "lang": "en",
-            "value": "KBL Jump R TTF"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "R"
-          },
-          {
-            "lang": "en",
-            "value": "R"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "KBL Jump R TTF"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "KBL 점프체 R TTF"
-          },
-          {
-            "lang": "en",
-            "value": "KBL Jump R TTF"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.000;Glyphs 3.3.1 (3343)"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "KBLJump_RTTF"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "ko",
-            "value": "KBL Jump R TTF is a trademark of Korean Basketball League."
-          },
-          {
-            "lang": "en",
-            "value": "KBL Jump R TTF is a trademark of Korean Basketball League."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "en",
-            "value": "TOGETHERGROUP"
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "ko",
-            "value": "TOGETHERGROUP"
-          },
-          {
-            "lang": "en",
-            "value": "TOGETHERGROUP"
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "https://itsfont.com/"
-          }
-        ],
-        "License Description": [
-          {
-            "lang": "en",
-            "value": "Korean Basketball League"
-          }
-        ],
-        "License Info URL": [
-          {
-            "lang": "en",
-            "value": "https://www.kbl.or.kr/"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "KBL 점프체 TTF"
-          },
-          {
-            "lang": "en",
-            "value": "KBL Jump TTF"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "R"
-          },
-          {
-            "lang": "en",
-            "value": "R"
-          }
-        ]
+        "Copyright": {
+          "ko": "Copyright (c) 2025 by Korean Basketball League. All rights reserved.",
+          "en": "Copyright (c) 2025 by Korean Basketball League. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "KBL 점프체 R TTF",
+          "en": "KBL Jump R TTF"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "R",
+          "en": "R"
+        },
+        "Unique Font Identifier": {
+          "en": "KBL Jump R TTF"
+        },
+        "Full Font Name": {
+          "ko": "KBL 점프체 R TTF",
+          "en": "KBL Jump R TTF"
+        },
+        "Version": {
+          "en": "Version 1.000;Glyphs 3.3.1 (3343)"
+        },
+        "PostScript Name": {
+          "en": "KBLJump_RTTF"
+        },
+        "Trademark": {
+          "ko": "KBL Jump R TTF is a trademark of Korean Basketball League.",
+          "en": "KBL Jump R TTF is a trademark of Korean Basketball League."
+        },
+        "Manufacturer": {
+          "en": "TOGETHERGROUP"
+        },
+        "Designer": {
+          "ko": "TOGETHERGROUP",
+          "en": "TOGETHERGROUP"
+        },
+        "URL Vendor": {
+          "en": "https://itsfont.com/"
+        },
+        "License Description": {
+          "en": "Korean Basketball League"
+        },
+        "License Info URL": {
+          "en": "https://www.kbl.or.kr/"
+        },
+        "Typographic Family": {
+          "ko": "KBL 점프체 TTF",
+          "en": "KBL Jump TTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "R",
+          "en": "R"
+        }
       }
     },
     {
@@ -4501,30 +2740,18 @@
         "embedding": "Installable Embedding"
       },
       "metadata": {
-        "Font Subfamily (Style)": [
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "FontForge 2.0 : KBO : 24-2-2023"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.0"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "KBO"
-          }
-        ]
+        "Font Subfamily (Style)": {
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "FontForge 2.0 : KBO : 24-2-2023"
+        },
+        "Version": {
+          "en": "Version 1.0"
+        },
+        "PostScript Name": {
+          "en": "KBO"
+        }
       }
     },
     {
@@ -4572,124 +2799,58 @@
       },
       "homepage": "https://itsfont.com",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "Copyright (c) 2021 by Heungkuk Life Insurance Co., Ltd. All rights reserved."
-          },
-          {
-            "lang": "en",
-            "value": "Copyright (c) 2021 by Heungkuk Life Insurance Co., Ltd. All rights reserved."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "이서윤체"
-          },
-          {
-            "lang": "en",
-            "value": "LeeSeoyun"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "Heungkuk Life Insurance Co., Ltd: LeeSeoyun: 2022"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "이서윤체"
-          },
-          {
-            "lang": "en",
-            "value": "LeeSeoyun"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.000"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "LeeSeoyun"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "en",
-            "value": "LeeSeoyun is a trademark of Heungkuk Life Insurance Co., Ltd."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "en",
-            "value": "TOGETHERGROUP"
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "ko",
-            "value": "TOGETHERGROUP"
-          },
-          {
-            "lang": "en",
-            "value": "TOGETHERGROUP"
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "https://itsfont.com"
-          }
-        ],
-        "License Description": [
-          {
-            "lang": "en",
-            "value": "Heungkuk Life Insurance Co., Ltd"
-          }
-        ],
-        "License Info URL": [
-          {
-            "lang": "en",
-            "value": "https://www.heungkuklife.co.kr/"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "이서윤체"
-          },
-          {
-            "lang": "en",
-            "value": "LeeSeoyun"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ]
+        "Copyright": {
+          "ko": "Copyright (c) 2021 by Heungkuk Life Insurance Co., Ltd. All rights reserved.",
+          "en": "Copyright (c) 2021 by Heungkuk Life Insurance Co., Ltd. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "이서윤체",
+          "en": "LeeSeoyun"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "Heungkuk Life Insurance Co., Ltd: LeeSeoyun: 2022"
+        },
+        "Full Font Name": {
+          "ko": "이서윤체",
+          "en": "LeeSeoyun"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "LeeSeoyun"
+        },
+        "Trademark": {
+          "en": "LeeSeoyun is a trademark of Heungkuk Life Insurance Co., Ltd."
+        },
+        "Manufacturer": {
+          "en": "TOGETHERGROUP"
+        },
+        "Designer": {
+          "ko": "TOGETHERGROUP",
+          "en": "TOGETHERGROUP"
+        },
+        "URL Vendor": {
+          "en": "https://itsfont.com"
+        },
+        "License Description": {
+          "en": "Heungkuk Life Insurance Co., Ltd"
+        },
+        "License Info URL": {
+          "en": "https://www.heungkuklife.co.kr/"
+        },
+        "Typographic Family": {
+          "ko": "이서윤체",
+          "en": "LeeSeoyun"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
       }
     },
     {
@@ -4737,124 +2898,58 @@
       },
       "homepage": "https://itsfont.com",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "ko",
-            "value": "Copyright (c) 2021 by Heungkuk Life Insurance Co., Ltd. All rights reserved."
-          },
-          {
-            "lang": "en",
-            "value": "Copyright (c) 2021 by Heungkuk Life Insurance Co., Ltd. All rights reserved."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "심경하체"
-          },
-          {
-            "lang": "en",
-            "value": "SimKyungha"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "Heungkuk Life Insurance Co., Ltd: SimKyungha: 2022"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "심경하체"
-          },
-          {
-            "lang": "en",
-            "value": "심경하체"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.000"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "SimKyungha"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "en",
-            "value": "SimKyungha is a trademark of Heungkuk Life Insurance Co., Ltd."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "en",
-            "value": "TOGETHERGROUP"
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "ko",
-            "value": "TOGETHERGROUP"
-          },
-          {
-            "lang": "en",
-            "value": "TOGETHERGROUP"
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "https://itsfont.com"
-          }
-        ],
-        "License Description": [
-          {
-            "lang": "en",
-            "value": "Heungkuk Life Insurance Co., Ltd"
-          }
-        ],
-        "License Info URL": [
-          {
-            "lang": "en",
-            "value": "https://www.heungkuklife.co.kr/"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "심경하체"
-          },
-          {
-            "lang": "en",
-            "value": "SimKyungha"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "Regular"
-          },
-          {
-            "lang": "en",
-            "value": "Regular"
-          }
-        ]
+        "Copyright": {
+          "ko": "Copyright (c) 2021 by Heungkuk Life Insurance Co., Ltd. All rights reserved.",
+          "en": "Copyright (c) 2021 by Heungkuk Life Insurance Co., Ltd. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "심경하체",
+          "en": "SimKyungha"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "Heungkuk Life Insurance Co., Ltd: SimKyungha: 2022"
+        },
+        "Full Font Name": {
+          "ko": "심경하체",
+          "en": "심경하체"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "SimKyungha"
+        },
+        "Trademark": {
+          "en": "SimKyungha is a trademark of Heungkuk Life Insurance Co., Ltd."
+        },
+        "Manufacturer": {
+          "en": "TOGETHERGROUP"
+        },
+        "Designer": {
+          "ko": "TOGETHERGROUP",
+          "en": "TOGETHERGROUP"
+        },
+        "URL Vendor": {
+          "en": "https://itsfont.com"
+        },
+        "License Description": {
+          "en": "Heungkuk Life Insurance Co., Ltd"
+        },
+        "License Info URL": {
+          "en": "https://www.heungkuklife.co.kr/"
+        },
+        "Typographic Family": {
+          "ko": "심경하체",
+          "en": "SimKyungha"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
       }
     },
     {
@@ -4903,118 +2998,55 @@
       },
       "homepage": "http://www.typolab.co.kr",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "en",
-            "value": "Copyright (C) 2017 Gyeonggi and PYJ&TYPOLAB Inc. All rights reserved."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "경기천년제목 Bold"
-          },
-          {
-            "lang": "en",
-            "value": "GyeonggiTitle Bold"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Bold"
-          },
-          {
-            "lang": "en",
-            "value": "Bold"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "1.000;PTL ;GyeonggiTitleB"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "경기천년제목 Bold"
-          },
-          {
-            "lang": "en",
-            "value": "GyeonggiTitle Bold"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.110; Build 20180221"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "GyeonggiTitleB"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "en",
-            "value": "GyeonggiTitle, Gyeonggi is a trademark of Gyeonggi."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "ko",
-            "value": "박윤정&타이포랩"
-          },
-          {
-            "lang": "en",
-            "value": "PYJ&TYPOLAB Inc."
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "ko",
-            "value": "박윤정&타이포랩"
-          },
-          {
-            "lang": "en",
-            "value": "PYJ&TYPOLAB Inc."
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "http://www.typolab.co.kr"
-          }
-        ],
-        "License Description": [
-          {
-            "lang": "en",
-            "value": "http://www.typolab.co.kr/license"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "경기천년제목"
-          },
-          {
-            "lang": "en",
-            "value": "GyeonggiTitle"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "Bold"
-          },
-          {
-            "lang": "en",
-            "value": "Bold"
-          }
-        ]
+        "Copyright": {
+          "en": "Copyright (C) 2017 Gyeonggi and PYJ&TYPOLAB Inc. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "경기천년제목 Bold",
+          "en": "GyeonggiTitle Bold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Bold",
+          "en": "Bold"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;PTL ;GyeonggiTitleB"
+        },
+        "Full Font Name": {
+          "ko": "경기천년제목 Bold",
+          "en": "GyeonggiTitle Bold"
+        },
+        "Version": {
+          "en": "Version 1.110; Build 20180221"
+        },
+        "PostScript Name": {
+          "en": "GyeonggiTitleB"
+        },
+        "Trademark": {
+          "en": "GyeonggiTitle, Gyeonggi is a trademark of Gyeonggi."
+        },
+        "Manufacturer": {
+          "ko": "박윤정&타이포랩",
+          "en": "PYJ&TYPOLAB Inc."
+        },
+        "Designer": {
+          "ko": "박윤정&타이포랩",
+          "en": "PYJ&TYPOLAB Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.typolab.co.kr"
+        },
+        "License Description": {
+          "en": "http://www.typolab.co.kr/license"
+        },
+        "Typographic Family": {
+          "ko": "경기천년제목",
+          "en": "GyeonggiTitle"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        }
       }
     },
     {
@@ -5061,118 +3093,55 @@
       },
       "homepage": "http://www.typolab.co.kr",
       "metadata": {
-        "Copyright": [
-          {
-            "lang": "en",
-            "value": "Copyright (C) 2017 Gyeonggi and PYJ&TYPOLAB Inc. All rights reserved."
-          }
-        ],
-        "Font Family": [
-          {
-            "lang": "ko",
-            "value": "경기천년제목V Bold"
-          },
-          {
-            "lang": "en",
-            "value": "GyeonggiTitleV Bold"
-          }
-        ],
-        "Font Subfamily (Style)": [
-          {
-            "lang": "ko",
-            "value": "Bold"
-          },
-          {
-            "lang": "en",
-            "value": "Bold"
-          }
-        ],
-        "Unique Font Identifier": [
-          {
-            "lang": "en",
-            "value": "1.110;PTL ;GyeonggiTitleV"
-          }
-        ],
-        "Full Font Name": [
-          {
-            "lang": "ko",
-            "value": "경기천년제목V Bold"
-          },
-          {
-            "lang": "en",
-            "value": "GyeonggiTitleV Bold"
-          }
-        ],
-        "Version": [
-          {
-            "lang": "en",
-            "value": "Version 1.110; Build 20180221"
-          }
-        ],
-        "PostScript Name": [
-          {
-            "lang": "en",
-            "value": "GyeonggiTitleV"
-          }
-        ],
-        "Trademark": [
-          {
-            "lang": "en",
-            "value": "GyeonggiTitle, Gyeonggi is a trademark of Gyeonggi."
-          }
-        ],
-        "Manufacturer": [
-          {
-            "lang": "ko",
-            "value": "박윤정&타이포랩"
-          },
-          {
-            "lang": "en",
-            "value": "PYJ&TYPOLAB Inc."
-          }
-        ],
-        "Designer": [
-          {
-            "lang": "ko",
-            "value": "박윤정&타이포랩"
-          },
-          {
-            "lang": "en",
-            "value": "PYJ&TYPOLAB Inc."
-          }
-        ],
-        "URL Vendor": [
-          {
-            "lang": "en",
-            "value": "http://www.typolab.co.kr"
-          }
-        ],
-        "License Description": [
-          {
-            "lang": "en",
-            "value": "http://www.typolab.co.kr/license"
-          }
-        ],
-        "Typographic Family": [
-          {
-            "lang": "ko",
-            "value": "경기천년제목V"
-          },
-          {
-            "lang": "en",
-            "value": "GyeonggiTitleV"
-          }
-        ],
-        "Typographic Subfamily": [
-          {
-            "lang": "ko",
-            "value": "Bold"
-          },
-          {
-            "lang": "en",
-            "value": "Bold"
-          }
-        ]
+        "Copyright": {
+          "en": "Copyright (C) 2017 Gyeonggi and PYJ&TYPOLAB Inc. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "경기천년제목V Bold",
+          "en": "GyeonggiTitleV Bold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Bold",
+          "en": "Bold"
+        },
+        "Unique Font Identifier": {
+          "en": "1.110;PTL ;GyeonggiTitleV"
+        },
+        "Full Font Name": {
+          "ko": "경기천년제목V Bold",
+          "en": "GyeonggiTitleV Bold"
+        },
+        "Version": {
+          "en": "Version 1.110; Build 20180221"
+        },
+        "PostScript Name": {
+          "en": "GyeonggiTitleV"
+        },
+        "Trademark": {
+          "en": "GyeonggiTitle, Gyeonggi is a trademark of Gyeonggi."
+        },
+        "Manufacturer": {
+          "ko": "박윤정&타이포랩",
+          "en": "PYJ&TYPOLAB Inc."
+        },
+        "Designer": {
+          "ko": "박윤정&타이포랩",
+          "en": "PYJ&TYPOLAB Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.typolab.co.kr"
+        },
+        "License Description": {
+          "en": "http://www.typolab.co.kr/license"
+        },
+        "Typographic Family": {
+          "ko": "경기천년제목V",
+          "en": "GyeonggiTitleV"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        }
       }
     }
   ]
