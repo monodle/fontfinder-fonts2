@@ -21,22 +21,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/gggokr/batang.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          2,
-          5,
-          3,
-          2,
-          1,
-          1,
-          2,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "http://www.typolab.co.kr",
       "metadata": {
@@ -158,7 +164,7 @@
       "id": "gapyeonghanseokbongb",
       "family": "gapyeonghanseokbongb",
       "categories": [
-        "sans-serif"
+        "serif"
       ],
       "languages": [
         "ko",
@@ -173,22 +179,26 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/gpgokr/gapyeonghanseokbongb.css",
       "os2": {
-        "usWeightClass": 700,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          4,
-          8,
-          3,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 4,
+          "weight": 8,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [],
+        "embedding": "Editable Embedding"
       },
       "homepage": "http://www.yoondesign.com",
       "metadata": {
@@ -302,7 +312,7 @@
       "id": "gapyeonghanseokbongl",
       "family": "gapyeonghanseokbongl",
       "categories": [
-        "sans-serif"
+        "serif"
       ],
       "languages": [
         "ko",
@@ -317,22 +327,26 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/gpgokr/gapyeonghanseokbongl.css",
       "os2": {
-        "usWeightClass": 300,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          4,
-          3,
-          3,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 4,
+          "weight": 3,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 300,
+        "widthClass": 5,
+        "selectionFlags": [],
+        "embedding": "Editable Embedding"
       },
       "homepage": "http://www.yoondesign.com",
       "metadata": {
@@ -446,7 +460,7 @@
       "id": "gapyeonghanseokbongr",
       "family": "gapyeonghanseokbongr",
       "categories": [
-        "sans-serif"
+        "serif"
       ],
       "languages": [
         "ko",
@@ -461,22 +475,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/gpgokr/gapyeonghanseokbongr.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          4,
-          5,
-          3,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 4,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
       },
       "homepage": "http://www.yoondesign.com",
       "metadata": {
@@ -590,7 +610,7 @@
       "id": "gapyeongwave",
       "family": "gapyeongwave",
       "categories": [
-        "sans-serif"
+        "serif"
       ],
       "languages": [
         "ko",
@@ -605,22 +625,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/gpgokr/gapyeongwave.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          4,
-          5,
-          3,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 4,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
       },
       "homepage": "http://www.yoondesign.com",
       "metadata": {
@@ -714,7 +740,7 @@
       "id": "gasoek-one",
       "family": "gasoekone",
       "categories": [
-        "sans-serif"
+        "handwriting"
       ],
       "languages": [
         "en"
@@ -728,22 +754,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/gasoek_one/gasoek_one.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 0,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Installable Embedding"
       },
       "homepage": "https://jamo.works",
       "metadata": {
@@ -825,7 +857,7 @@
       "id": "gmarketsans",
       "family": "gmarketsans",
       "categories": [
-        "sans-serif"
+        "serif"
       ],
       "languages": [
         "ko",
@@ -842,22 +874,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/gmarketsans/gmarketsans.css",
       "os2": {
-        "usWeightClass": 700,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "http://www.gmarket.co.kr",
       "metadata": {
@@ -989,7 +1027,7 @@
       "id": "gothic-a1",
       "family": "gothica1",
       "categories": [
-        "sans-serif"
+        "handwriting"
       ],
       "languages": [
         "en"
@@ -1011,22 +1049,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/gothic_a1/gothic_a1.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 0,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Installable Embedding"
       },
       "homepage": "http://www.hanyang.co.kr",
       "metadata": {
@@ -1124,22 +1169,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/gwpoof/gwpoof_modu.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 261,
-        "panose": [
-          2,
-          2,
-          6,
-          3,
-          2,
-          1,
-          1,
-          2,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "metadata": {
         "Copyright": [
@@ -1293,22 +1344,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/gwpoof/gwpoof_modu_ho.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 261,
-        "panose": [
-          2,
-          2,
-          6,
-          3,
-          2,
-          1,
-          1,
-          2,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "metadata": {
         "Copyright": [
@@ -1462,22 +1519,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/gwpoof/gwpoof_modu_seom.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 261,
-        "panose": [
-          2,
-          2,
-          6,
-          3,
-          2,
-          1,
-          1,
-          2,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "metadata": {
         "Copyright": [
@@ -1631,22 +1694,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/gwpoof/gwpoof_modu_tt.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 261,
-        "panose": [
-          2,
-          2,
-          6,
-          3,
-          2,
-          1,
-          1,
-          2,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "metadata": {
         "Copyright": [
@@ -1802,22 +1871,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/hshyosung/hshyosung.css",
       "os2": {
-        "usWeightClass": 700,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          11,
-          0,
-          1,
-          2,
-          1,
-          1,
-          1,
-          1,
-          3
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 0,
+          "proportion": 1,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 3
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "http://www.sandolltium.co.kr",
       "metadata": {
@@ -1945,7 +2020,7 @@
       "id": "jalnan2",
       "family": "jalnan2",
       "categories": [
-        "sans-serif"
+        "display"
       ],
       "languages": [
         "ko",
@@ -1960,22 +2035,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/jalnan2/jalnan2.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 0,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          5,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Installable Embedding"
       },
       "homepage": "https://www.sandoll.co.kr",
       "metadata": {
@@ -2103,7 +2184,7 @@
       "id": "jalnangothic",
       "family": "jalnangothic",
       "categories": [
-        "sans-serif"
+        "display"
       ],
       "languages": [
         "ko",
@@ -2118,22 +2199,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/jalnangothic/jalnangothic.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 0,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          5,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Installable Embedding"
       },
       "homepage": "https://www.sandoll.co.kr",
       "metadata": {
@@ -2276,22 +2363,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/heungkuklife/jeonhwaseon.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          1,
-          6,
-          0,
-          0,
-          1,
-          1,
-          1,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 1,
+          "weight": 6,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "https://itsfont.com",
       "metadata": {
@@ -2434,22 +2528,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/kbizmacotf/kbiz-g-b.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 261,
-        "panose": [
-          2,
-          2,
-          6,
-          3,
-          2,
-          1,
-          1,
-          2,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "metadata": {
         "Copyright": [
@@ -2553,22 +2653,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/kbizmacotf/kbiz-g-h.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 261,
-        "panose": [
-          2,
-          2,
-          6,
-          3,
-          2,
-          1,
-          1,
-          2,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "metadata": {
         "Copyright": [
@@ -2672,22 +2778,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/kbizmacotf/kbiz-g-l.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 261,
-        "panose": [
-          2,
-          2,
-          6,
-          3,
-          2,
-          1,
-          1,
-          2,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "metadata": {
         "Copyright": [
@@ -2771,22 +2883,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/kbizmacotf/kbiz-g-m.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 261,
-        "panose": [
-          2,
-          2,
-          6,
-          3,
-          2,
-          1,
-          1,
-          2,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "metadata": {
         "Copyright": [
@@ -2890,22 +3008,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/kbizmacotf/kbiz-g-r.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 261,
-        "panose": [
-          2,
-          2,
-          6,
-          3,
-          2,
-          1,
-          1,
-          2,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "metadata": {
         "Copyright": [
@@ -3009,22 +3133,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/kbizmacotf/kbiz-m-b.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 261,
-        "panose": [
-          2,
-          2,
-          6,
-          3,
-          2,
-          1,
-          1,
-          2,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "metadata": {
         "Copyright": [
@@ -3128,22 +3258,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/kbizmacotf/kbiz-m-l.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 261,
-        "panose": [
-          2,
-          2,
-          6,
-          3,
-          2,
-          1,
-          1,
-          2,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "metadata": {
         "Copyright": [
@@ -3247,22 +3383,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/kbizmacotf/kbiz-m-m.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 261,
-        "panose": [
-          2,
-          2,
-          6,
-          3,
-          2,
-          1,
-          1,
-          2,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "metadata": {
         "Copyright": [
@@ -3366,22 +3508,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/kbizmacotf/kbiz-m-r.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 261,
-        "panose": [
-          2,
-          2,
-          6,
-          3,
-          2,
-          1,
-          1,
-          2,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "metadata": {
         "Copyright": [
@@ -3485,22 +3633,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/kbl/kblcourt.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "https://itsfont.com/",
       "metadata": {
@@ -3647,22 +3802,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/kbl/kbljump_b.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "https://itsfont.com/",
       "metadata": {
@@ -3809,22 +3971,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/kbl/kbljump_eb_condensed.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "https://itsfont.com/",
       "metadata": {
@@ -3971,22 +4140,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/kbl/kbljump_eb_extended.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "https://itsfont.com/",
       "metadata": {
@@ -4133,22 +4309,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/kbl/kbljump_r.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "https://itsfont.com/",
       "metadata": {
@@ -4296,22 +4479,26 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/kbo-dia-gothic/kbo-dia-gothic.css",
       "os2": {
-        "usWeightClass": 700,
-        "usWidthClass": 5,
-        "fsType": 0,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          0,
-          8,
-          3,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 8,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [],
+        "embedding": "Installable Embedding"
       },
       "metadata": {
         "Font Subfamily (Style)": [
@@ -4359,22 +4546,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/heungkuklife/leeseoyoon.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          1,
-          6,
-          0,
-          0,
-          1,
-          1,
-          1,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 1,
+          "weight": 6,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "https://itsfont.com",
       "metadata": {
@@ -4517,22 +4711,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/heungkuklife/simgyungha.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          1,
-          6,
-          0,
-          0,
-          1,
-          1,
-          1,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 1,
+          "weight": 6,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "https://itsfont.com",
       "metadata": {
@@ -4660,7 +4861,7 @@
       "id": "title",
       "family": "title",
       "categories": [
-        "sans-serif"
+        "serif"
       ],
       "languages": [
         "ko",
@@ -4677,22 +4878,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/gggokr/title.css",
       "os2": {
-        "usWeightClass": 700,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          2,
-          8,
-          3,
-          2,
-          1,
-          1,
-          2,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 8,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "BOLD"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "http://www.typolab.co.kr",
       "metadata": {
@@ -4814,7 +5021,7 @@
       "id": "titlev",
       "family": "titlev",
       "categories": [
-        "sans-serif"
+        "serif"
       ],
       "languages": [
         "ko",
@@ -4829,22 +5036,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts/gggokr/titlev.css",
       "os2": {
-        "usWeightClass": 700,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          2,
-          8,
-          3,
-          2,
-          1,
-          1,
-          2,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 8,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "BOLD"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "http://www.typolab.co.kr",
       "metadata": {
